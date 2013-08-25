@@ -1,0 +1,833 @@
+<!doctype HTML>
+<meta charset = 'utf-8'>
+<html>
+  <head>
+    
+    <script src='http://d3js.org/d3.v3.min.js' type='text/javascript'></script>
+    <script src='http://dimplejs.org/dist/dimple.v1.min.js' type='text/javascript'></script>
+    
+    <style>
+    .rChart {
+      display: block;
+      margin-left: auto; 
+      margin-right: auto;
+      width: 800px;
+      height: 400px;
+    }  
+    </style>
+    
+  </head>
+  <body>
+    <div id='charta3849734d26' class='rChart dimple'></div>  
+    
+    <script type="text/javascript">
+  var opts = {
+ "dom": "charta3849734d26",
+"width":    800,
+"height":    400,
+"x": "Overall.Rank",
+"y": "Best.Value.Rank",
+"groups": [ "Name", "Carnegie.Classification", "Control" ],
+"type": "bubble",
+"id": "charta3849734d26" 
+},
+    data = [
+ {
+ "Name": "Appalachian State University, NC",
+"Carnegie.Classification": "Master's Colleges and Universities (larger programs)",
+"Control": "Public",
+"Overall.Rank": 452,
+"Best.Value.Rank": 18 
+},
+{
+ "Name": "Auburn University, AL",
+"Carnegie.Classification": "Research Universities (high research activity)",
+"Control": "Public",
+"Overall.Rank": 225,
+"Best.Value.Rank": 86 
+},
+{
+ "Name": "Berea College, KY",
+"Carnegie.Classification": "Baccalaureate Colleges--Arts & Sciences",
+"Control": "Private",
+"Overall.Rank": 369,
+"Best.Value.Rank": 6 
+},
+{
+ "Name": "Brigham Young University, UT",
+"Carnegie.Classification": "Research Universities (high research activity)",
+"Control": "Private",
+"Overall.Rank": 75,
+"Best.Value.Rank": 15 
+},
+{
+ "Name": "Brigham Young University, Idaho, ID",
+"Carnegie.Classification": "Baccalaureate Colleges--Diverse Fields",
+"Control": "Private",
+"Overall.Rank": 469,
+"Best.Value.Rank": 29 
+},
+{
+ "Name": "California Maritime Academy, CA",
+"Carnegie.Classification": "Baccalaureate Colleges--Diverse Fields",
+"Control": "Public",
+"Overall.Rank": 293,
+"Best.Value.Rank": 60 
+},
+{
+ "Name": "California Polytechnic State University, San Luis Obispo, CA",
+"Carnegie.Classification": "Master's Colleges and Universities (larger programs)",
+"Control": "Public",
+"Overall.Rank": 170,
+"Best.Value.Rank": 38 
+},
+{
+ "Name": "Christopher Newport University, VA",
+"Carnegie.Classification": "Master's Colleges and Universities (smaller programs)",
+"Control": "Public",
+"Overall.Rank": 416,
+"Best.Value.Rank": 93 
+},
+{
+ "Name": "College of Charleston, SC",
+"Carnegie.Classification": "Master's Colleges and Universities (medium programs)",
+"Control": "Public",
+"Overall.Rank": 429,
+"Best.Value.Rank": 7 
+},
+{
+ "Name": "College of William and Mary, VA",
+"Carnegie.Classification": "Research Universities (high research activity)",
+"Control": "Public",
+"Overall.Rank": 44,
+"Best.Value.Rank": 52 
+},
+{
+ "Name": "Colorado State University, CO",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 291,
+"Best.Value.Rank": 77 
+},
+{
+ "Name": "CUNY, Baruch College, NY",
+"Carnegie.Classification": "Master's Colleges and Universities (larger programs)",
+"Control": "Public",
+"Overall.Rank": 280,
+"Best.Value.Rank": 48 
+},
+{
+ "Name": "CUNY, Brooklyn College, NY",
+"Carnegie.Classification": "Master's Colleges and Universities (larger programs)",
+"Control": "Public",
+"Overall.Rank": 301,
+"Best.Value.Rank": 51 
+},
+{
+ "Name": "CUNY, Hunter College, NY",
+"Carnegie.Classification": "Master's Colleges and Universities (larger programs)",
+"Control": "Public",
+"Overall.Rank": 381,
+"Best.Value.Rank": 63 
+},
+{
+ "Name": "CUNY, Queens College, NY",
+"Carnegie.Classification": "Master's Colleges and Universities (larger programs)",
+"Control": "Public",
+"Overall.Rank": 334,
+"Best.Value.Rank": 56 
+},
+{
+ "Name": "East Carolina University, NC",
+"Carnegie.Classification": "Doctoral/Research Universities",
+"Control": "Public",
+"Overall.Rank": 508,
+"Best.Value.Rank": 33 
+},
+{
+ "Name": "Florida State University, FL",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 202,
+"Best.Value.Rank": 12 
+},
+{
+ "Name": "George Mason University, VA",
+"Carnegie.Classification": "Research Universities (high research activity)",
+"Control": "Public",
+"Overall.Rank": 197,
+"Best.Value.Rank": 72 
+},
+{
+ "Name": "Georgia Institute of Technology, GA",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 83,
+"Best.Value.Rank": 40 
+},
+{
+ "Name": "Indiana University, Bloomington, IN",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 97,
+"Best.Value.Rank": 78 
+},
+{
+ "Name": "Iowa State University, IA",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 232,
+"Best.Value.Rank": 71 
+},
+{
+ "Name": "James Madison University, VA",
+"Carnegie.Classification": "Master's Colleges and Universities (larger programs)",
+"Control": "Public",
+"Overall.Rank": 168,
+"Best.Value.Rank": 21 
+},
+{
+ "Name": "Louisiana State University, LA",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 179,
+"Best.Value.Rank": 19 
+},
+{
+ "Name": "Louisiana Tech University, LA",
+"Carnegie.Classification": "Research Universities (high research activity)",
+"Control": "Public",
+"Overall.Rank": 471,
+"Best.Value.Rank": 49 
+},
+{
+ "Name": "Mississippi State University, MS",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 279,
+"Best.Value.Rank": 65 
+},
+{
+ "Name": "Montana State University, Bozeman, MT",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 255,
+"Best.Value.Rank": 44 
+},
+{
+ "Name": "New College of Florida, FL",
+"Carnegie.Classification": "Baccalaureate Colleges--Arts & Sciences",
+"Control": "Public",
+"Overall.Rank": 316,
+"Best.Value.Rank": 36 
+},
+{
+ "Name": "New Mexico Institute of Mining and Technology, NM",
+"Carnegie.Classification": "Master's Colleges and Universities (medium programs)",
+"Control": "Public",
+"Overall.Rank": 370,
+"Best.Value.Rank": 47 
+},
+{
+ "Name": "North Carolina State University, Raleigh, NC",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 160,
+"Best.Value.Rank": 32 
+},
+{
+ "Name": "North Dakota State University, ND",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 430,
+"Best.Value.Rank": 100 
+},
+{
+ "Name": "Ohio State University, Columbus, OH",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 138,
+"Best.Value.Rank": 97 
+},
+{
+ "Name": "Oklahoma State University, OK",
+"Carnegie.Classification": "Research Universities (high research activity)",
+"Control": "Public",
+"Overall.Rank": 240,
+"Best.Value.Rank": 23 
+},
+{
+ "Name": "Old Dominion University, VA",
+"Carnegie.Classification": "Research Universities (high research activity)",
+"Control": "Public",
+"Overall.Rank": 514,
+"Best.Value.Rank": 84 
+},
+{
+ "Name": "Oregon State University, OR",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 304,
+"Best.Value.Rank": 75 
+},
+{
+ "Name": "Purdue University, West Lafayette, IN",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 106,
+"Best.Value.Rank": 87 
+},
+{
+ "Name": "Sam Houston State University, TX",
+"Carnegie.Classification": "Doctoral/Research Universities",
+"Control": "Public",
+"Overall.Rank": 567,
+"Best.Value.Rank": 70 
+},
+{
+ "Name": "San Diego State University, CA",
+"Carnegie.Classification": "Research Universities (high research activity)",
+"Control": "Public",
+"Overall.Rank": 264,
+"Best.Value.Rank": 54 
+},
+{
+ "Name": "South Dakota State University, SD",
+"Carnegie.Classification": "Research Universities (high research activity)",
+"Control": "Public",
+"Overall.Rank": 481,
+"Best.Value.Rank": 31 
+},
+{
+ "Name": "SUNY, Albany (University at Albany), NY",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 389,
+"Best.Value.Rank": 68 
+},
+{
+ "Name": "SUNY, Binghamton (Binghamton University), NY",
+"Carnegie.Classification": "Research Universities (high research activity)",
+"Control": "Public",
+"Overall.Rank": 139,
+"Best.Value.Rank": 28 
+},
+{
+ "Name": "SUNY, Buffalo (University at Buffalo), NY",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 300,
+"Best.Value.Rank": 55 
+},
+{
+ "Name": "SUNY, College of Environmental Science and Forestry, NY",
+"Carnegie.Classification": "Doctoral/Research Universities",
+"Control": "Public",
+"Overall.Rank": 320,
+"Best.Value.Rank": 58 
+},
+{
+ "Name": "SUNY, Geneseo, NY",
+"Carnegie.Classification": "Master's Colleges and Universities (smaller programs)",
+"Control": "Public",
+"Overall.Rank": 250,
+"Best.Value.Rank": 46 
+},
+{
+ "Name": "SUNY, Stony Brook (Stony Brook University), NY",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 223,
+"Best.Value.Rank": 43 
+},
+{
+ "Name": "Texas A&M University, College Station, TX",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 122,
+"Best.Value.Rank": 27 
+},
+{
+ "Name": "Texas A&M University, Corpus Christi, TX",
+"Carnegie.Classification": "Doctoral/Research Universities",
+"Control": "Public",
+"Overall.Rank": 586,
+"Best.Value.Rank": 90 
+},
+{
+ "Name": "Texas State University, TX",
+"Carnegie.Classification": "Master's Colleges and Universities (larger programs)",
+"Control": "Public",
+"Overall.Rank": 487,
+"Best.Value.Rank": 82 
+},
+{
+ "Name": "Texas Tech University, TX",
+"Carnegie.Classification": "Research Universities (high research activity)",
+"Control": "Public",
+"Overall.Rank": 447,
+"Best.Value.Rank": 62 
+},
+{
+ "Name": "The Citadel, SC",
+"Carnegie.Classification": "Master's Colleges and Universities (larger programs)",
+"Control": "Public",
+"Overall.Rank": 244,
+"Best.Value.Rank": 8 
+},
+{
+ "Name": "Towson University, MD",
+"Carnegie.Classification": "Master's Colleges and Universities (larger programs)",
+"Control": "Public",
+"Overall.Rank": 400,
+"Best.Value.Rank": 76 
+},
+{
+ "Name": "United States Air Force Academy, CO",
+"Carnegie.Classification": "Baccalaureate Colleges--Arts & Sciences",
+"Control": "Public",
+"Overall.Rank": 31,
+"Best.Value.Rank": 3 
+},
+{
+ "Name": "United States Coast Guard Academy, CT",
+"Carnegie.Classification": "Baccalaureate Colleges--Diverse Fields",
+"Control": "Public",
+"Overall.Rank": 94,
+"Best.Value.Rank": 4 
+},
+{
+ "Name": "United States Merchant Marine Academy, NY",
+"Carnegie.Classification": "Baccalaureate Colleges--Diverse Fields",
+"Control": "Public",
+"Overall.Rank": 165,
+"Best.Value.Rank": 5 
+},
+{
+ "Name": "United States Military Academy, NY",
+"Carnegie.Classification": "Baccalaureate Colleges--Arts & Sciences",
+"Control": "Public",
+"Overall.Rank": 7,
+"Best.Value.Rank": 1 
+},
+{
+ "Name": "United States Naval Academy, MD",
+"Carnegie.Classification": "Baccalaureate Colleges--Arts & Sciences",
+"Control": "Public",
+"Overall.Rank": 28,
+"Best.Value.Rank": 2 
+},
+{
+ "Name": "University of Arkansas, AR",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 209,
+"Best.Value.Rank": 53 
+},
+{
+ "Name": "University of California, Berkeley, CA",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 22,
+"Best.Value.Rank": 80 
+},
+{
+ "Name": "University of California, Los Angeles, CA",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 34,
+"Best.Value.Rank": 88 
+},
+{
+ "Name": "University of Central Florida, FL",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 405,
+"Best.Value.Rank": 34 
+},
+{
+ "Name": "University of Colorado, Boulder, CO",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 101,
+"Best.Value.Rank": 66 
+},
+{
+ "Name": "University of Colorado, Colorado Springs, CO",
+"Carnegie.Classification": "Master's Colleges and Universities (larger programs)",
+"Control": "Public",
+"Overall.Rank": 513,
+"Best.Value.Rank": 95 
+},
+{
+ "Name": "University of Connecticut, CT",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 140,
+"Best.Value.Rank": 83 
+},
+{
+ "Name": "University of Florida, FL",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 74,
+"Best.Value.Rank": 13 
+},
+{
+ "Name": "University of Georgia, GA",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 90,
+"Best.Value.Rank": 45 
+},
+{
+ "Name": "University of Idaho, ID",
+"Carnegie.Classification": "Research Universities (high research activity)",
+"Control": "Public",
+"Overall.Rank": 352,
+"Best.Value.Rank": 25 
+},
+{
+ "Name": "University of Iowa, IA",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 183,
+"Best.Value.Rank": 61 
+},
+{
+ "Name": "University of Kansas, KS",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 246,
+"Best.Value.Rank": 99 
+},
+{
+ "Name": "University of Mary Washington, VA",
+"Carnegie.Classification": "Master's Colleges and Universities (larger programs)",
+"Control": "Public",
+"Overall.Rank": 229,
+"Best.Value.Rank": 26 
+},
+{
+ "Name": "University of Maryland, Baltimore County, MD",
+"Carnegie.Classification": "Research Universities (high research activity)",
+"Control": "Public",
+"Overall.Rank": 306,
+"Best.Value.Rank": 94 
+},
+{
+ "Name": "University of Maryland, College Park, MD",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 73,
+"Best.Value.Rank": 42 
+},
+{
+ "Name": "University of Massachusetts, Amherst, MA",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 180,
+"Best.Value.Rank": 9 
+},
+{
+ "Name": "University of Massachusetts, Lowell, MA",
+"Carnegie.Classification": "Research Universities (high research activity)",
+"Control": "Public",
+"Overall.Rank": 477,
+"Best.Value.Rank": 10 
+},
+{
+ "Name": "University of Mississippi, MS",
+"Carnegie.Classification": "Research Universities (high research activity)",
+"Control": "Public",
+"Overall.Rank": 278,
+"Best.Value.Rank": 64 
+},
+{
+ "Name": "University of Missouri, Columbia, MO",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 208,
+"Best.Value.Rank": 96 
+},
+{
+ "Name": "University of Montana, MT",
+"Carnegie.Classification": "Research Universities (high research activity)",
+"Control": "Public",
+"Overall.Rank": 426,
+"Best.Value.Rank": 50 
+},
+{
+ "Name": "University of Nebraska, Lincoln, NE",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 247,
+"Best.Value.Rank": 69 
+},
+{
+ "Name": "University of North Carolina, Asheville, NC",
+"Carnegie.Classification": "Baccalaureate Colleges--Arts & Sciences",
+"Control": "Public",
+"Overall.Rank": 480,
+"Best.Value.Rank": 20 
+},
+{
+ "Name": "University of North Carolina, Chapel Hill, NC",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 38,
+"Best.Value.Rank": 14 
+},
+{
+ "Name": "University of North Carolina, Charlotte, NC",
+"Carnegie.Classification": "Doctoral/Research Universities",
+"Control": "Public",
+"Overall.Rank": 488,
+"Best.Value.Rank": 24 
+},
+{
+ "Name": "University of North Carolina, Greensboro, NC",
+"Carnegie.Classification": "Research Universities (high research activity)",
+"Control": "Public",
+"Overall.Rank": 530,
+"Best.Value.Rank": 37 
+},
+{
+ "Name": "University of North Carolina, Wilmington, NC",
+"Carnegie.Classification": "Master's Colleges and Universities (larger programs)",
+"Control": "Public",
+"Overall.Rank": 484,
+"Best.Value.Rank": 22 
+},
+{
+ "Name": "University of North Dakota, ND",
+"Carnegie.Classification": "Research Universities (high research activity)",
+"Control": "Public",
+"Overall.Rank": 412,
+"Best.Value.Rank": 85 
+},
+{
+ "Name": "University of North Florida, FL",
+"Carnegie.Classification": "Master's Colleges and Universities (larger programs)",
+"Control": "Public",
+"Overall.Rank": 539,
+"Best.Value.Rank": 35 
+},
+{
+ "Name": "University of Oklahoma, Norman, OK",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 182,
+"Best.Value.Rank": 16 
+},
+{
+ "Name": "University of Oregon, OR",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 217,
+"Best.Value.Rank": 92 
+},
+{
+ "Name": "University of South Dakota, SD",
+"Carnegie.Classification": "Research Universities (high research activity)",
+"Control": "Public",
+"Overall.Rank": 330,
+"Best.Value.Rank": 17 
+},
+{
+ "Name": "University of South Florida, FL",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 446,
+"Best.Value.Rank": 91 
+},
+{
+ "Name": "University of Tennessee, Knoxville, TN",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 282,
+"Best.Value.Rank": 98 
+},
+{
+ "Name": "University of Texas, Austin, TX",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 66,
+"Best.Value.Rank": 81 
+},
+{
+ "Name": "University of Utah, UT",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 143,
+"Best.Value.Rank": 39 
+},
+{
+ "Name": "University of Virginia, VA",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 29,
+"Best.Value.Rank": 57 
+},
+{
+ "Name": "University of Washington, WA",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 55,
+"Best.Value.Rank": 79 
+},
+{
+ "Name": "University of West Florida, FL",
+"Carnegie.Classification": "Doctoral/Research Universities",
+"Control": "Public",
+"Overall.Rank": 599,
+"Best.Value.Rank": 59 
+},
+{
+ "Name": "University of Wisconsin, Madison, WI",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 68,
+"Best.Value.Rank": 67 
+},
+{
+ "Name": "University of Wyoming, WY",
+"Carnegie.Classification": "Research Universities (high research activity)",
+"Control": "Public",
+"Overall.Rank": 199,
+"Best.Value.Rank": 11 
+},
+{
+ "Name": "Utah State University, UT",
+"Carnegie.Classification": "Research Universities (high research activity)",
+"Control": "Public",
+"Overall.Rank": 265,
+"Best.Value.Rank": 30 
+},
+{
+ "Name": "Virginia Military Institute, VA",
+"Carnegie.Classification": "Baccalaureate Colleges--Arts & Sciences",
+"Control": "Public",
+"Overall.Rank": 87,
+"Best.Value.Rank": 41 
+},
+{
+ "Name": "Virginia Tech, VA",
+"Carnegie.Classification": "Research Universities (very high research activity)",
+"Control": "Public",
+"Overall.Rank": 110,
+"Best.Value.Rank": 89 
+},
+{
+ "Name": "West Virginia University, WV",
+"Carnegie.Classification": "Research Universities (high research activity)",
+"Control": "Public",
+"Overall.Rank": 360,
+"Best.Value.Rank": 74 
+},
+{
+ "Name": "Wichita State University, KS",
+"Carnegie.Classification": "Research Universities (high research activity)",
+"Control": "Public",
+"Overall.Rank": 466,
+"Best.Value.Rank": 73 
+} 
+],
+    xAxis = {
+ "type": "addMeasureAxis",
+"showPercent": false 
+},
+    yAxis = {
+ "type": "addMeasureAxis",
+"showPercent": false 
+},
+    zAxis = [],
+    legend = {
+ "x":    200,
+"y":     20,
+"width":    500,
+"height":   2000,
+"horizontalAlign": "right" 
+};
+  var svg = dimple.newSvg("#" + opts.id, opts.width, opts.height);
+
+  //data = dimple.filterData(data, "Owner", ["Aperture", "Black Mesa"])
+  var myChart = new dimple.chart(svg, data);
+  if (opts.bounds) {
+    myChart.setBounds(x = opts.bounds.x, y = opts.bounds.y, height = opts.bounds.height, width = opts.bounds.width);//myChart.setBounds(80, 30, 480, 330);
+  }
+  //dimple allows use of custom CSS with noFormats
+  if(opts.noFormats) { myChart.noFormats = opts.noFormats; };
+  //for markimekko and addAxis also have third parameter measure
+  //so need to evaluate if measure provided
+  //x axis
+  var x;
+  if(xAxis.measure) {
+    x = myChart[xAxis.type]("x",opts.x,xAxis.measure);
+  } else {
+    x = myChart[xAxis.type]("x", opts.x);
+  };
+  if(!(xAxis.type === "addPctAxis")) x.showPercent = xAxis.showPercent;
+  if (xAxis.orderRule) x.addOrderRule(xAxis.orderRule);
+  if (xAxis.grouporderRule) x.addGroupOrderRule(xAxis.grouporderRule);  
+  if (xAxis.overrideMin) x.overrideMin = xAxis.overrideMin;
+  if (xAxis.overrideMax) x.overrideMax = xAxis.overrideMax;
+  //y axis
+  var y;
+  if(yAxis.measure) {
+    y = myChart[yAxis.type]("y",opts.y,yAxis.measure);
+  } else {
+    y = myChart[yAxis.type]("y", opts.y);
+  };
+  if(!(yAxis.type === "addPctAxis")) y.showPercent = yAxis.showPercent;
+  if (yAxis.orderRule) y.addOrderRule(yAxis.orderRule);
+  if (yAxis.grouporderRule) y.addGroupOrderRule(yAxis.grouporderRule);
+  if (yAxis.overrideMin) y.overrideMin = yAxis.overrideMin;
+  if (yAxis.overrideMax) y.overrideMax = yAxis.overrideMax;
+  //z for bubbles
+    var z;
+  if (!(typeof(zAxis) === 'undefined') && zAxis.type){
+    if(zAxis.measure) {
+      z = myChart[zAxis.type]("z",opts.z,zAxis.measure);
+    } else {
+      z = myChart[zAxis.type]("z", opts.z);
+    };
+    if(!(zAxis.type === "addPctAxis")) z.showPercent = zAxis.showPercent;
+    if (zAxis.orderRule) z.addOrderRule(zAxis.orderRule);
+    if (zAxis.overrideMin) z.overrideMin = zAxis.overrideMin;
+    if (zAxis.overrideMax) z.overrideMax = zAxis.overrideMax;
+  }
+  //here need think I need to evaluate group and if missing do null
+  //as the first argument
+  //if provided need to use groups from opts
+  if(opts.hasOwnProperty("groups")) {
+    var s = myChart.addSeries( opts.groups, dimple.plot[opts.type] );
+    //series offers an aggregate method that we will also need to check if available
+    //options available are avg, count, max, min, sum
+    if (!(typeof(opts.aggregate) === 'undefined')) {
+      s.aggregate = eval(opts.aggregate);
+    }
+    if (!(typeof(opts.lineWeight) === 'undefined')) {
+      s.lineWeight = eval(opts.lineWeight);
+    }
+    if (!(typeof(opts.barGap) === 'undefined')) {
+      s.barGap = eval(opts.barGap);
+    }    
+  } else var s = myChart.addSeries( null, dimple.plot[opts.type] );
+  //unsure if this is best but if legend is provided (not empty) then evaluate
+  if(d3.keys(legend).length > 0) {
+    var l =myChart.addLegend();
+    d3.keys(legend).forEach(function(d){
+      l[d] = legend[d];
+    });
+  }
+  //quick way to get this going but need to make this cleaner
+  if(opts.storyboard) {
+    myChart.setStoryboard(opts.storyboard);
+  };
+  myChart.draw();
+
+</script>
+    
+  </body>
+</html>
