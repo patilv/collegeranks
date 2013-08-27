@@ -1,0 +1,651 @@
+Name,State,Rate.My.Prof.Rank,Actual.Retention.Rate.Rank,Actual.Vs.Pred.Retention.Rank,Payscale.Salary.Rank,American.Leaders.Rank,Federal.Student.Debt.Rank,Debt.Default.Rate.Rank,Actual.Vs.Pred.Prop.Of.Students.Borrowing Rank,Actual.Graduation.Rate.Rank,Actual.Vs.Pred.Graduation.Rate.Rank,Student.Awards.Rank,Alumni.Receiving.PhD.Rank,Carnegie.Classification,Control,Total Score,Overall.Rank
+Stanford University,CA,52,8,306,2,4,27,33,305,79,537,10,20,Research Universities (very high research activity),Private,89.9,1
+Pomona College,CA,27,3,262,17,31,10,173,225,2,313,8,12,Baccalaureate Colleges--Arts & Sciences,Private,89.83,2
+Princeton University,NJ,49,11,407,28,3,7,209,182,23,447,5,14,Research Universities (very high research activity),Private,89.8,3
+Yale University,CT,157,1,293,21,2,9,82,177,8,364,4,21,Research Universities (very high research activity),Private,89.29,4
+Columbia University,NY,64,31,356,27,17,62,184,65,38,445,31,33,Research Universities (very high research activity),Private,88.83,5
+Swarthmore College,PA,103,16,320,48,9,37,18,452,1,296,3,3,Baccalaureate Colleges--Arts & Sciences,Private,88.81,6
+United States Military Academy,NY,8,120,502,7,41,1,1,280,64,59,26,202,Baccalaureate Colleges--Arts & Sciences,Public,88.79,7
+Harvard University,MA,250,15,385,32,1,6,44,97,25,397,9,17,Research Universities (very high research activity),Private,88.23,8
+Williams College,MA,161,25,305,65,16,19,17,381,7,258,13,13,Baccalaureate Colleges--Arts & Sciences,Private,87.72,9
+Massachusetts Institute of Technology,MA,234,6,339,4,7,40,29,479,36,381,2,4,Research Universities (very high research activity),Private,87.23,10
+University of Pennsylvania,PA,134,12,279,39,11,53,65,375,20,387,53,71,Research Universities (very high research activity),Private,86.84,11
+Brown University,RI,251,9,240,44,13,42,73,254,45,419,15,19,Research Universities (very high research activity),Private,86.51,12
+Amherst College,MA,78,7,278,128,8,16,162,351,28,331,11,18,Baccalaureate Colleges--Arts & Sciences,Private,86.18,13
+University of Chicago,IL,242,2,120,40,15,75,141,417,32,385,14,10,Research Universities (very high research activity),Private,86.03,14
+Duke University,NC,285,27,292,23,22,31,19,598,9,287,27,30,Research Universities (very high research activity),Private,86.03,15
+Dartmouth College,NH,460,10,237,14,10,35,56,315,14,312,32,25,Research Universities (very high research activity),Private,85.9,16
+Northwestern University,IL,116,24,270,60,20,76,93,480,34,356,40,52,Research Universities (very high research activity),Private,85.77,17
+California Institute of Technology,CA,290,4,341,1,5,25,59,555,90,593,1,1,Research Universities (very high research activity),Private,85.14,18
+Cornell University,NY,482,23,261,16,6,38,64,492,27,274,46,7,Research Universities (very high research activity),Private,84.94,19
+Bowdoin College,ME,110,19,228,71,48,23,105,214,13,270,37,36,Baccalaureate Colleges--Arts & Sciences,Private,84.77,20
+Washington and Lee University,VA,105,91,474,113,14,34,35,297,17,341,90,96,Baccalaureate Colleges--Arts & Sciences,Private,84.08,21
+"University of California, Berkeley",CA,421,29,308,19,12,61,144,424,126,41,55,39,Research Universities (very high research activity),Public,84.02,22
+Wellesley College,MA,14,36,343,232,29,21,91,509,33,278,22,23,Baccalaureate Colleges--Arts & Sciences,Private,83.77,23
+University of Notre Dame,IN,90,18,151,36,24,262,23,600-650,4,174,78,89,Research Universities (very high research activity),Private,83.67,24
+Tufts University,MA,217,35,304,33,34,58,50,436,37,384,60,62,Research Universities (very high research activity),Private,83.45,25
+Georgetown University,DC,339,30,248,47,23,65,40,477,5,297,59,107,Research Universities (very high research activity),Private,83.29,26
+Vassar College,NY,99,39,249,90,44,54,12,565,10,346,38,24,Baccalaureate Colleges--Arts & Sciences,Private,83.28,27
+United States Naval Academy,MD,473,52,299,6,40,1,1,279,11,4,21,359,Baccalaureate Colleges--Arts & Sciences,Public,83.12,28
+University of Virginia,VA,387,14,110,53,35,41,194,238,26,5,99,81,Research Universities (very high research activity),Public,82.5,29
+"University of Michigan, Ann Arbor",MI,365,32,171,54,19,135,113,188,115,79,93,92,Research Universities (very high research activity),Public,82.29,30
+United States Air Force Academy,CO,2,86,498,24,163,1,1,278,55,17,77,162,Baccalaureate Colleges--Arts & Sciences,Public,82.12,31
+Davidson College,NC,122,34,208,166,46,36,62,371,21,285,50,42,Baccalaureate Colleges--Arts & Sciences,Private,80.94,32
+Rice University,TX,433,26,295,10,47,17,172,523,78,491,17,9,Research Universities (very high research activity),Private,80.66,33
+"University of California, Los Angeles",CA,300,20,203,46,28,90,204,550,151,31,127,113,Research Universities (very high research activity),Public,80.17,34
+Boston College,MA,23,56,319,93,60,94,127,569,24,182,112,171,Research Universities (high research activity),Private,79.55,35
+Colgate University,NY,244,55,350,70,56,32,236,356,15,327,58,61,Baccalaureate Colleges--Arts & Sciences,Private,79.25,36
+Vanderbilt University,TN,252,38,250,38,88,15,179,91,29,212,79,86,Research Universities (very high research activity),Private,79.16,37
+"University of North Carolina, Chapel Hill",NC,313,21,78,153,36,55,30,441,99,36,97,138,Research Universities (very high research activity),Public,78.92,38
+Wesleyan University,CT,87,66,404,357,18,79,78,399,22,290,54,31,Baccalaureate Colleges--Arts & Sciences,Private,78.81,39
+Bryn Mawr College,PA,33,153,533,140,50,234,45,300,57,267,41,16,Baccalaureate Colleges--Arts & Sciences,Private,78.63,40
+Middlebury College,VT,113,50,285,98,89,44,84,431,40,288,39,49,Baccalaureate Colleges--Arts & Sciences,Private,78.39,41
+Carnegie Mellon University,PA,207,43,318,9,70,131,31,271,125,595,65,41,Research Universities (very high research activity),Private,78.11,42
+Haverford College,PA,280,5,125,259,45,30,111,314,3,220,24,11,Baccalaureate Colleges--Arts & Sciences,Private,78.03,43
+College of William and Mary,VA,309,45,215,149,62,72,34,317,39,45,66,37,Research Universities (high research activity),Public,77.5,44
+Carleton College,MN,7,33,263,300,77,78,16,600-650,12,328,16,6,Baccalaureate Colleges--Arts & Sciences,Private,77.03,45
+Johns Hopkins University,MD,600-650,41,232,18,57,196,60,270,41,404,48,43,Research Universities (very high research activity),Private,76.45,46
+Hamilton College,NY,109,63,359,117,74,45,306,490,42,403,28,74,Baccalaureate Colleges--Arts & Sciences,Private,76.36,47
+Lafayette College,PA,146,57,207,41,119,136,107,463,35,124,75,83,Baccalaureate Colleges--Arts & Sciences,Private,76.33,48
+Colby College,ME,244,80,376,147,95,33,48,89,30,217,63,54,Baccalaureate Colleges--Arts & Sciences,Private,75.88,49
+Oberlin College,OH,118,90,405,402,21,140,24,346,95,535,30,15,Baccalaureate Colleges--Arts & Sciences,Private,75.55,50
+Brandeis University,MA,246,83,352,124,55,259,49,383,16,158,74,35,Research Universities (very high research activity),Private,75.24,51
+Harvey Mudd College,CA,38,28,375,3,242,176,1,430,104,591,6,2,Baccalaureate Colleges--Arts & Sciences,Private,74.6,52
+"University of Illinois, Urbana-Champaign",IL,575,95,360,77,38,143,147,162,162,66,150,151,Research Universities (very high research activity),Public,74.51,53
+Barnard College,NY,247,64,414,354,30,66,63,510,43,414,51,50,Baccalaureate Colleges--Arts & Sciences,Private,74.34,54
+University of Washington,WA,359,84,199,83,58,88,142,308,240,19,104,175,Research Universities (very high research activity),Public,74.25,55
+New York University,NY,343,109,452,97,26,227,197,157,72,441,185,270,Research Universities (very high research activity),Private,74.06,56
+Washington University in St. Louis,MO,399,17,330,49,126,50,192,367,31,455,45,51,Research Universities (very high research activity),Private,73.95,57
+Union College,NY,104,78,152,82,76,211,182,596,81,222,119,156,Baccalaureate Colleges--Arts & Sciences,Private,73.82,58
+Smith College,MA,115,73,136,389,43,237,98,543,65,42,25,29,Baccalaureate Colleges--Arts & Sciences,Private,73.71,59
+Wake Forest University,NC,291,101,439,57,147,111,28,102,51,321,62,101,Research Universities (high research activity),Private,73.62,60
+University of Rochester,NY,503,51,191,108,39,292,83,303,113,544,64,26,Research Universities (very high research activity),Private,73.6,61
+Whitman College,WA,30,58,264,192,150,81,66,423,69,340,49,32,Baccalaureate Colleges--Arts & Sciences,Private,73.54,62
+University of Southern California,CA,425,22,211,26,37,344,114,147,112,550,175,321,Research Universities (very high research activity),Private,72.97,63
+Grinnell College,IA,186,85,426,168,91,43,223,600-650,46,407,19,8,Baccalaureate Colleges--Arts & Sciences,Private,72.89,64
+Reed College,OR,72,107,447,348,32,80,252,545,242,600-650,20,5,Baccalaureate Colleges--Arts & Sciences,Private,72.3,65
+"University of Texas, Austin",TX,384,112,150,103,27,170,409,489,296,54,129,199,Research Universities (very high research activity),Public,71.99,66
+Cooper Union,NY,595,37,298,29,97,22,124,352,197,575,98,66,Baccalaureate Colleges--Diverse Fields,Private,71.78,67
+"University of Wisconsin, Madison",WI,532,76,212,180,25,137,53,187,308,431,143,131,Research Universities (very high research activity),Public,71.71,68
+Kenyon College,OH,156,69,275,240,111,67,71,600-650,47,330,23,34,Baccalaureate Colleges--Arts & Sciences,Private,71.37,69
+Lehigh University,PA,544,47,218,37,67,165,39,415,82,464,271,185,Research Universities (high research activity),Private,71.27,70
+College of the Holy Cross,MA,194,60,153,251,75,256,199,222,6,16,69,119,Baccalaureate Colleges--Arts & Sciences,Private,71.11,71
+Santa Clara University,CA,275,68,230,11,224,112,51,185,88,108,152,220,Master's Colleges and Universities (larger programs),Private,71.07,72
+"University of Maryland, College Park",MD,600-650,62,236,85,53,107,294,335,163,205,138,211,Research Universities (very high research activity),Public,70.31,73
+University of Florida,FL,480,46,105,122,73,60,211,267,243,140,163,183,Research Universities (very high research activity),Public,70.16,74
+Brigham Young University,UT,179,237,313,84,52,24,20,446,485,600-650,235,123,Research Universities (high research activity),Private,69.39,75
+Colorado College,CO,83,42,139,487,115,51,102,459,48,104,80,40,Baccalaureate Colleges--Arts & Sciences,Private,69.37,76
+George Washington University,DC,546,65,241,67,93,177,69,166,96,465,140,276,Research Universities (very high research activity),Private,69.36,77
+Trinity College,CT,353,119,493,316,81,14,169,57,54,261,82,140,Baccalaureate Colleges--Arts & Sciences,Private,69.1,78
+Villanova University,PA,497,71,175,112,108,180,43,186,19,94,225,267,Master's Colleges and Universities (larger programs),Private,68.71,79
+Centre College,KY,39,124,169,165,268,178,175,508,58,141,61,77,Baccalaureate Colleges--Arts & Sciences,Private,68.71,80
+Southern Methodist University,TX,239,165,255,55,66,85,462,390,223,471,249,319,Research Universities (high research activity),Private,68.51,81
+Macalester College,MN,95,75,317,244,161,194,89,525,50,394,34,22,Baccalaureate Colleges--Arts & Sciences,Private,68.41,82
+Georgia Institute of Technology,GA,514,53,186,22,85,91,166,105,484,600-650,70,109,Research Universities (very high research activity),Public,68.2,83
+Mount Holyoke College,MA,152,113,369,381,100,190,97,194,71,235,35,45,Baccalaureate Colleges--Arts & Sciences,Private,68.1,84
+Boston University,MA,414,118,412,118,64,202,92,100,171,578,193,174,Research Universities (very high research activity),Private,68.07,85
+Franklin and Marshall College,PA,167,99,307,430,83,124,120,275,62,315,102,67,Baccalaureate Colleges--Arts & Sciences,Private,67.35,86
+Virginia Military Institute,VA,93,231,220,86,134,216,273,563,257,20,106,230,Baccalaureate Colleges--Arts & Sciences,Public,67.28,87
+University of Richmond,VA,240,67,210,134,202,120,165,382,89,483,94,133,Baccalaureate Colleges--Arts & Sciences,Private,66.85,88
+Case Western Reserve University,OH,600-650,88,287,35,123,311,15,232,222,600-650,72,28,Research Universities (very high research activity),Private,66.78,89
+University of Georgia,GA,357,74,85,309,51,110,217,237,283,248,178,295,Research Universities (very high research activity),Public,66.39,90
+Sewanee—University of the South,TN,21,143,239,490,248,69,281,26,67,179,52,72,Baccalaureate Colleges--Arts & Sciences,Private,66.19,91
+DePauw University,IN,202,104,133,257,175,159,164,318,68,90,88,165,Baccalaureate Colleges--Arts & Sciences,Private,65.91,92
+"Pennsylvania State University, University Park",PA,569,105,113,144,49,305,486,240,194,51,216,179,Research Universities (very high research activity),Public,65.47,93
+United States Coast Guard Academy,CT,600-650,61,340,30,311,1,1,277,52,7,166,398,Baccalaureate Colleges--Diverse Fields,Public,65.06,94
+Scripps College,CA,137,154,588,273,321,28,85,482,44,337,12,82,Baccalaureate Colleges--Arts & Sciences,Private,64.92,95
+"University of California, Santa Barbara",CA,560,108,123,105,185,134,143,336,160,3,201,167,Research Universities (very high research activity),Public,64.89,96
+"Indiana University, Bloomington",IN,379,167,79,291,42,173,346,115,340,37,219,334,Research Universities (very high research activity),Public,64.76,97
+Wheaton College,IL,60,59,205,330,197,208,72,600-650,75,358,103,69,Baccalaureate Colleges--Arts & Sciences,Private,64.74,98
+"University of California, Davis",CA,481,96,288,58,188,99,224,404,317,25,199,147,Research Universities (very high research activity),Public,64.48,99
+Pepperdine University,CA,258,100,291,80,295,200,128,360,136,365,108,190,Doctoral/Research Universities,Private,64.41,100
+"University of Colorado, Boulder",CO,229,315,524,146,65,93,305,136,420,193,209,254,Research Universities (very high research activity),Public,64.33,101
+Connecticut College,CT,166,136,528,460,151,101,42,320,61,361,57,84,Baccalaureate Colleges--Arts & Sciences,Private,63.9,102
+University of Denver,CO,317,177,80,178,121,207,232,71,229,166,162,322,Research Universities (high research activity),Private,63.72,103
+Dickinson College,PA,205,138,471,221,209,109,148,445,53,319,133,137,Baccalaureate Colleges--Arts & Sciences,Private,63.7,104
+Rensselaer Polytechnic Institute,NY,600-650,94,181,25,139,411,122,39,225,582,113,105,Research Universities (very high research activity),Private,63.63,105
+"Purdue University, West Lafayette",IN,600-650,150,53,73,69,158,225,146,438,302,287,323,Research Universities (very high research activity),Public,63.62,106
+Bates College,ME,255,97,466,400,216,39,38,478,18,223,107,55,Baccalaureate Colleges--Arts & Sciences,Private,63.52,107
+Hobart and William Smith Colleges,NY,302,212,311,104,167,368,126,310,142,257,85,224,Baccalaureate Colleges--Arts & Sciences,Private,63.25,108
+"University of Minnesota, Twin Cities",MN,527,140,257,131,63,242,188,312,364,426,171,249,Research Universities (very high research activity),Public,63.07,109
+Virginia Tech,VA,378,123,116,79,219,210,76,183,266,119,272,201,Research Universities (very high research activity),Public,62.96,110
+Colorado School of Mines,CO,213,158,201,13,297,206,246,114,426,159,184,124,Research Universities (high research activity),Public,62.86,111
+"University of California, Irvine",CA,554,82,380,64,349,100,130,333,177,11,200,226,Research Universities (very high research activity),Public,62.78,112
+Gettysburg College,PA,276,111,347,199,204,219,81,576,74,417,92,142,Baccalaureate Colleges--Arts & Sciences,Private,62.71,113
+"University of California, San Diego",CA,510,40,209,52,298,172,234,524,268,89,148,108,Research Universities (very high research activity),Public,62.67,114
+Skidmore College,NY,210,44,81,283,329,83,123,212,56,234,250,145,Baccalaureate Colleges--Arts & Sciences,Private,62.65,115
+American University,DC,338,157,477,191,98,221,200,337,109,501,155,291,Doctoral/Research Universities,Private,62.59,116
+Occidental College,CA,297,134,532,302,220,95,210,553,60,247,43,59,Baccalaureate Colleges--Arts & Sciences,Private,62.51,117
+Pitzer College,CA,209,87,335,331,286,46,290,487,100,230,7,144,Baccalaureate Colleges--Arts & Sciences,Private,62.51,118
+Wofford College,SC,126,218,370,452,226,103,1,340,98,129,73,158,Baccalaureate Colleges--Arts & Sciences,Private,62.49,119
+Kalamazoo College,MI,43,142,491,436,227,260,11,150,93,410,100,44,Baccalaureate Colleges--Arts & Sciences,Private,62.32,120
+St. Olaf College,MN,310,70,87,416,183,271,67,331,59,160,47,60,Baccalaureate Colleges--Arts & Sciences,Private,62.14,121
+"Texas A&M University, College Station",TX,511,115,62,76,130,187,428,113,336,58,285,299,Research Universities (very high research activity),Public,61.93,122
+Syracuse University,NY,484,114,190,150,92,340,365,104,134,311,206,391,Research Universities (high research activity),Private,61.87,123
+University of Miami,FL,381,127,386,197,141,201,138,41,167,495,196,209,Research Universities (very high research activity),Private,61.83,124
+"Rutgers University, New Brunswick",NJ,582,139,372,142,71,304,360,170,298,215,164,243,Research Universities (very high research activity),Public,61.37,125
+University of Delaware,DE,558,102,195,171,137,203,190,466,186,165,194,245,Research Universities (very high research activity),Public,61.33,126
+Loyola University Maryland,MD,363,172,395,87,300,272,55,266,76,214,246,235,Master's Colleges and Universities (larger programs),Private,61.28,127
+Tulane University,LA,316,135,433,173,125,171,359,121,244,600-650,156,154,Research Universities (very high research activity),Private,61.28,128
+St. Lawrence University,NY,279,145,55,277,143,283,132,208,92,52,334,273,Baccalaureate Colleges--Arts & Sciences,Private,61.15,129
+Denison University,OH,238,148,435,281,155,454,61,22,91,253,105,149,Baccalaureate Colleges--Arts & Sciences,Private,61.12,130
+Sarah Lawrence College,NY,34,162,344,495,61,572,191,37,193,600-650,121,79,Baccalaureate Colleges--Arts & Sciences,Private,61.11,131
+Southwestern University,TX,97,288,408,102,240,308,299,454,260,541,91,98,Baccalaureate Colleges--Arts & Sciences,Private,61.07,132
+Willamette University,OR,170,187,363,179,214,496,206,14,133,294,67,120,Baccalaureate Colleges--Arts & Sciences,Private,61.05,133
+Creighton University,NE,457,189,198,75,170,409,178,111,164,216,220,215,Master's Colleges and Universities (larger programs),Private,61.04,134
+Yeshiva University,NY,278,79,21,43,414,56,195,257,355,600-650,290,309,Research Universities (very high research activity),Private,61.03,135
+Worcester Polytechnic Institute,MA,600-650,54,77,12,412,424,161,49,176,208,139,93,Doctoral/Research Universities,Private,60.87,136
+"CUNY, City College",NY,507,263,155,115,54,20,444,210,600-650,589,173,444,Master's Colleges and Universities (larger programs),Public,60.83,137
+"Ohio State University, Columbus",OH,451,93,35,247,79,239,376,290,323,98,215,282,Research Universities (very high research activity),Public,60.58,138
+"SUNY, Binghamton (Binghamton University)",NY,515,130,424,110,184,223,208,369,165,226,261,184,Research Universities (high research activity),Public,60.48,139
+University of Connecticut,CT,600-650,106,172,119,144,263,270,577,149,9,242,281,Research Universities (very high research activity),Public,60.44,140
+Wabash College,IN,11,338,556,229,117,431,526,600-650,148,188,120,112,Baccalaureate Colleges--Arts & Sciences,Private,60.44,141
+Trinity University,TX,174,176,514,253,253,63,213,527,143,507,212,65,Master's Colleges and Universities (medium programs),Private,60.44,142
+University of Utah,UT,237,228,65,136,106,116,183,134,561,405,335,253,Research Universities (very high research activity),Public,60.29,143
+Furman University,SC,265,175,409,523,232,132,13,176,49,139,117,76,Baccalaureate Colleges--Arts & Sciences,Private,60.27,144
+Bennington College,VT,188,279,457,520,33,306,214,287,246,563,308,111,Baccalaureate Colleges--Arts & Sciences,Private,59.64,145
+Earlham College,IN,89,258,459,467,122,118,322,600-650,245,530,81,53,Baccalaureate Colleges--Arts & Sciences,Private,59.59,146
+Hampshire College,MA,227,446,600-650,364,72,205,103,283,324,600-650,86,47,Baccalaureate Colleges--Arts & Sciences,Private,59.57,147
+Rhodes College,TN,66,234,559,387,238,144,193,568,124,460,128,95,Baccalaureate Colleges--Arts & Sciences,Private,59.32,148
+Loyola Marymount University,CA,352,110,160,137,230,220,275,325,154,170,321,363,Master's Colleges and Universities (larger programs),Private,59.28,149
+Clark University,MA,270,225,441,286,158,333,358,328,94,153,124,116,Research Universities (high research activity),Private,59.19,150
+Providence College,RI,586,141,282,303,114,298,41,319,63,53,280,289,Master's Colleges and Universities (larger programs),Private,59.07,151
+University of Tulsa,OK,356,269,349,66,312,114,514,307,319,485,71,177,Doctoral/Research Universities,Private,58.96,152
+Clemson University,SC,548,137,112,133,218,317,110,20,286,177,167,292,Research Universities (high research activity),Public,58.75,153
+Michigan State University,MI,600-650,129,28,206,80,323,336,95,356,40,233,308,Research Universities (very high research activity),Public,58.68,154
+"Miami University, Oxford",OH,492,173,415,207,135,164,534,259,132,39,269,260,Research Universities (high research activity),Public,58.53,155
+University of Vermont,VT,328,274,406,327,128,188,109,205,259,29,230,288,Research Universities (high research activity),Public,58.42,156
+University of New Hampshire,NH,490,230,126,205,94,445,151,216,234,8,256,335,Research Universities (high research activity),Public,58.19,157
+Hendrix College,AR,62,409,600-650,339,180,174,458,532,188,448,44,57,Baccalaureate Colleges--Arts & Sciences,Private,58.14,158
+"University of California, Santa Cruz",CA,468,131,222,162,294,217,220,248,330,95,188,103,Research Universities (very high research activity),Public,57.86,159
+"North Carolina State University, Raleigh",NC,419,160,176,111,234,104,215,560,413,380,207,240,Research Universities (very high research activity),Public,57.75,160
+University of Puget Sound,WA,98,191,469,239,538,354,87,151,156,425,126,88,Baccalaureate Colleges--Arts & Sciences,Private,57.72,161
+Drake University,IA,505,196,187,297,127,309,226,402,180,151,153,188,Master's Colleges and Universities (larger programs),Private,57.6,162
+Fordham University,NY,549,198,436,224,103,346,386,384,108,187,154,339,Research Universities (high research activity),Private,57.6,163
+College of Wooster,OH,131,144,281,519,257,193,177,372,150,332,101,73,Baccalaureate Colleges--Arts & Sciences,Private,57.58,164
+United States Merchant Marine Academy,NY,600-650,13,98,34,324,8,47,586,155,6,560,451,Baccalaureate Colleges--Diverse Fields,Public,57.11,165
+Bard College,NY,77,197,600-650,440,142,432,338,18,190,600-650,68,64,Baccalaureate Colleges--Arts & Sciences,Private,57.11,166
+Lawrence University,WI,32,166,391,480,182,405,104,101,226,600-650,159,38,Baccalaureate Colleges--Arts & Sciences,Private,57.09,167
+James Madison University,VA,417,121,95,172,415,106,198,440,174,21,452,327,Master's Colleges and Universities (larger programs),Public,56.81,168
+University of Dallas,TX,125,398,576,139,293,313,283,406,198,236,252,94,Master's Colleges and Universities (larger programs),Private,56.65,169
+"California Polytechnic State University, San Luis Obispo",CA,47,89,366,51,489,82,186,583,486,600-650,446,414,Master's Colleges and Universities (larger programs),Public,56.65,170
+University of Portland,OR,342,128,103,246,517,325,133,220,122,57,89,346,Master's Colleges and Universities (larger programs),Private,56.64,171
+University of San Diego,CA,323,207,494,69,532,179,256,173,181,408,360,393,Doctoral/Research Universities,Private,56.57,172
+St. John's College,MD,55,151,258,521,225,379,27,69,235,600-650,160,27,Baccalaureate Colleges--Arts & Sciences,Private,56.34,173
+College of New Jersey,NJ,346,72,177,243,481,228,153,427,107,65,306,214,Master's Colleges and Universities (larger programs),Public,56.32,174
+Mills College,CA,48,453,400,189,145,600-650,422,5,328,184,114,78,Master's Colleges and Universities (medium programs),Private,56.31,175
+Marquette University,WI,487,155,182,157,159,360,189,378,218,433,365,262,Doctoral/Research Universities,Private,56.27,176
+St. Mary's College of Maryland,MD,175,213,446,282,600-650,141,325,285,130,126,186,118,Baccalaureate Colleges--Arts & Sciences,Public,56.25,177
+Juniata College,PA,46,283,365,600-650,213,384,99,439,118,84,96,80,Baccalaureate Colleges--Arts & Sciences,Private,56.25,178
+Louisiana State University,LA,368,316,460,249,59,87,404,204,505,554,304,411,Research Universities (very high research activity),Public,56.13,179
+"University of Massachusetts, Amherst",MA,600-650,178,91,175,109,367,350,505,314,88,224,269,Research Universities (very high research activity),Public,56.12,180
+Allegheny College,PA,190,210,357,268,221,473,317,302,97,255,241,46,Baccalaureate Colleges--Arts & Sciences,Private,56.08,181
+"University of Oklahoma, Norman",OK,337,287,170,252,99,153,459,139,458,336,205,320,Research Universities (very high research activity),Public,55.92,182
+University of Iowa,IA,592,266,420,271,86,251,227,195,365,279,227,265,Research Universities (very high research activity),Public,55.74,183
+Lewis & Clark College,OR,102,190,542,535,237,147,134,213,161,573,33,531,Baccalaureate Colleges--Arts & Sciences,Private,55.73,184
+Fairfield University,CT,541,185,227,129,314,544,68,4,77,47,284,379,Master's Colleges and Universities (larger programs),Private,55.73,185
+Millsaps College,MS,57,186,109,395,350,269,520,179,212,281,145,87,Baccalaureate Colleges--Arts & Sciences,Private,55.71,186
+Clarkson University,NY,550,273,44,56,426,504,150,345,224,368,122,166,Research Universities (high research activity),Private,55.59,187
+Fisk University,TN,5,441,14,138,131,600-650,600-650,132,441,96,322,139,Baccalaureate Colleges--Arts & Sciences,Private,55.47,188
+Hampden-Sydney College,VA,88,389,434,415,116,246,443,349,254,127,286,206,Baccalaureate Colleges--Arts & Sciences,Private,55.38,189
+"University of South Carolina, Columbia",SC,502,236,219,447,96,235,185,241,322,69,218,305,Research Universities (very high research activity),Public,55.13,190
+Gonzaga University,WA,465,126,164,228,343,345,160,209,141,128,210,304,Master's Colleges and Universities (larger programs),Private,55.03,191
+Grove City College,PA,410,183,569,412,566,1,1,73,86,204,213,141,Baccalaureate Colleges--Arts & Sciences,Private,54.93,192
+University of Pittsburgh,PA,559,133,337,227,200,378,298,355,214,239,115,213,Research Universities (very high research activity),Public,54.75,193
+University of San Francisco,CA,177,301,501,116,296,375,309,59,251,284,373,356,Doctoral/Research Universities,Private,54.65,194
+Bentley University,MA,600-650,77,140,59,407,332,46,175,66,122,560,600-650,Master's Colleges and Universities (larger programs),Private,54.37,195
+Hillsdale College,MI,108,49,265,557,345,1,1,62,173,600-650,137,161,Baccalaureate Colleges--Arts & Sciences,#N/A,54.36,196
+George Mason University,VA,426,217,57,78,454,209,174,206,414,163,338,494,Research Universities (high research activity),Public,54.35,197
+Pacific University,OR,19,511,592,132,478,506,250,274,290,200,147,129,Master's Colleges and Universities (larger programs),Private,54.26,198
+University of Wyoming,WY,172,536,364,299,84,138,415,86,544,243,247,285,Research Universities (high research activity),Public,54.26,199
+Ohio Wesleyan University,OH,223,364,583,320,138,364,158,93,294,600-650,157,134,Baccalaureate Colleges--Arts & Sciences,Private,54.23,200
+Whitworth University,WA,16,327,550,338,480,444,156,385,152,207,131,192,Master's Colleges and Universities (medium programs),Private,54.17,201
+Florida State University,FL,321,103,46,429,136,248,451,77,345,130,248,317,Research Universities (very high research activity),Public,54.11,202
+Catholic University of America,DC,407,402,575,164,194,328,106,365,209,354,273,239,Research Universities (high research activity),Private,54.09,203
+College of the Atlantic,ME,111,227,83,600-650,235,252,58,539,258,360,36,63,Baccalaureate Colleges--Arts & Sciences,Private,54.05,204
+University of Alabama,AL,334,241,108,422,90,160,452,74,437,206,239,423,Research Universities (high research activity),Public,54.03,205
+University of Redlands,CA,141,215,260,279,402,119,228,584,264,487,229,368,Master's Colleges and Universities (larger programs),Private,53.98,206
+St. Louis University,MO,464,289,479,204,207,115,263,309,211,557,430,232,Research Universities (high research activity),Private,53.96,207
+"University of Missouri, Columbia",MO,477,280,537,375,68,253,375,223,382,357,237,236,Research Universities (very high research activity),Public,53.94,208
+University of Arkansas,AR,447,321,216,335,78,152,537,108,460,344,177,371,Research Universities (very high research activity),Public,53.91,209
+Knox College,IL,35,182,226,600-650,288,429,297,239,138,254,109,56,Baccalaureate Colleges--Arts & Sciences,Private,53.9,210
+University of Arizona,AZ,493,473,464,155,149,184,484,125,447,134,146,251,Research Universities (very high research activity),Public,53.89,211
+Stevens Institute of Technology,NJ,486,97,197,15,181,456,218,412,401,600-650,405,399,Research Universities (high research activity),Private,53.63,212
+Westmont College,CA,145,260,462,380,437,284,121,289,102,103,316,170,Baccalaureate Colleges--Arts & Sciences,Private,53.58,213
+Calvin College,MI,200,238,283,403,309,302,154,348,232,308,141,148,Baccalaureate Colleges--Arts & Sciences,Private,53.5,214
+Transylvania University,KY,132,240,59,572,272,369,115,498,158,157,135,91,Baccalaureate Colleges--Arts & Sciences,Private,53.48,215
+Muhlenberg College,PA,225,147,437,537,365,238,26,426,80,265,134,266,Baccalaureate Colleges--Arts & Sciences,Private,53.46,216
+University of Oregon,OR,376,247,273,371,146,230,272,53,412,148,234,293,Research Universities (very high research activity),Public,53.41,217
+University of St. Thomas,MN,436,194,185,185,259,371,145,398,210,383,276,352,Doctoral/Research Universities,Private,53.31,218
+John Carroll University,OH,565,180,51,263,336,157,230,600-650,182,181,305,246,Master's Colleges and Universities (larger programs),Private,53.25,219
+Gustavus Adolphus College,MN,351,92,22,455,394,467,136,165,73,78,168,122,Baccalaureate Colleges--Arts & Sciences,Private,53.16,220
+Albion College,MI,150,312,345,499,178,418,331,167,169,171,170,110,Baccalaureate Colleges--Arts & Sciences,Private,53.09,221
+Hope College,MI,187,159,163,491,409,335,171,515,146,260,110,136,Baccalaureate Colleges--Arts & Sciences,Private,52.92,222
+"SUNY, Stony Brook (Stony Brook University)",NY,488,116,242,95,386,213,433,386,383,314,313,315,Research Universities (very high research activity),Public,52.65,223
+Wheaton College,MA,127,254,503,509,584,229,212,554,114,186,29,252,Baccalaureate Colleges--Arts & Sciences,Private,52.59,224
+Auburn University,AL,579,174,84,245,133,121,504,171,453,375,319,389,Research Universities (high research activity),Public,52.45,225
+Arizona State University,AZ,475,320,41,170,157,289,447,158,478,348,183,354,Research Universities (very high research activity),Public,52.37,226
+St. Joseph's University,PA,587,170,213,158,450,273,288,587,128,244,253,419,Master's Colleges and Universities (larger programs),Private,52.3,227
+Illinois Institute of Technology,IL,600-650,179,461,31,315,282,329,82,461,600-650,337,128,Research Universities (high research activity),Private,52.27,228
+University of Mary Washington,VA,448,285,531,270,580,123,222,142,195,161,346,168,Master's Colleges and Universities (larger programs),Public,52.21,229
+Wittenberg University,OH,85,425,487,568,156,490,180,148,166,67,204,173,Baccalaureate Colleges--Arts & Sciences,Private,52.04,230
+Illinois Wesleyan University,IL,441,146,428,358,317,415,201,377,85,276,197,127,Baccalaureate Colleges--Arts & Sciences,Private,51.84,231
+Iowa State University,IA,600-650,195,223,187,107,374,311,107,471,511,288,264,Research Universities (very high research activity),Public,51.79,232
+Manhattan College,NY,553,346,483,68,244,380,287,600-650,170,156,496,437,Master's Colleges and Universities (medium programs),Private,51.78,233
+Elon University,NC,324,149,397,508,484,98,90,499,84,202,231,499,Master's Colleges and Universities (smaller programs),Private,51.77,234
+Baylor University,TX,312,270,396,236,148,316,460,541,306,505,267,242,Research Universities (high research activity),Private,51.72,235
+Northeastern University,MA,578,48,56,89,166,277,258,306,600-650,600-650,320,530,Research Universities (high research activity),Private,51.51,236
+Xavier University,OH,409,298,475,225,236,370,1,540,145,347,520,263,Master's Colleges and Universities (larger programs),Private,51.46,237
+Merrimack College,MA,412,188,30,123,366,426,327,451,189,75,461,600-650,Baccalaureate Colleges--Diverse Fields,Private,51.42,238
+Polytechnic Institute of NYU,NY,340,303,547,20,208,353,476,304,489,600-650,203,416,Research Universities (high research activity),Private,51.35,239
+Oklahoma State University,OK,526,401,107,209,102,185,487,581,459,320,258,390,Research Universities (high research activity),Public,51.24,240
+Seattle University,WA,306,248,419,145,395,600-650,146,16,261,351,165,378,Master's Colleges and Universities (larger programs),Private,51.18,241
+Augustana College,IL,261,199,267,287,168,413,372,332,131,282,560,172,Baccalaureate Colleges--Arts & Sciences,Private,51.09,242
+Ohio Northern University,OH,489,193,23,169,525,448,36,350,313,353,208,241,Baccalaureate Colleges--Diverse Fields,Private,51.08,243
+The Citadel,SC,600-650,360,233,265,171,257,265,229,227,2,475,476,Master's Colleges and Universities (larger programs),Public,51.08,244
+Texas Christian University,TX,322,214,234,262,261,125,424,536,281,420,428,384,Doctoral/Research Universities,Private,51.08,245
+University of Kansas,KS,528,403,573,312,82,191,354,362,477,439,190,298,Research Universities (very high research activity),Public,51.03,246
+"University of Nebraska, Lincoln",NE,536,318,555,278,124,122,276,486,480,562,181,297,Research Universities (very high research activity),Public,50.99,247
+Valparaiso University,IN,600-650,381,451,202,199,511,335,201,196,116,149,182,Master's Colleges and Universities (larger programs),Private,50.97,248
+University of Dayton,OH,545,265,484,203,278,255,187,419,248,402,353,256,Research Universities (high research activity),Private,50.96,249
+"SUNY, Geneseo",NY,547,125,416,336,498,214,203,595,140,233,251,164,Master's Colleges and Universities (smaller programs),Public,50.93,250
+Austin College,TX,149,308,485,260,579,600-650,216,246,144,280,118,117,Baccalaureate Colleges--Arts & Sciences,Private,50.74,251
+Sweet Briar College,VA,31,461,558,600-650,319,232,205,203,183,142,223,160,Baccalaureate Colleges--Arts & Sciences,Private,50.7,252
+Presbyterian College,SC,68,495,590,456,337,156,94,373,217,196,403,316,Baccalaureate Colleges--Arts & Sciences,Private,50.66,253
+Spelman College,GA,408,161,37,468,195,558,600-650,528,129,1,56,48,Baccalaureate Colleges--Arts & Sciences,Private,50.65,254
+"Montana State University, Bozeman",MT,214,533,384,218,162,320,274,143,559,362,132,353,Research Universities (very high research activity),Public,50.63,255
+Pacific Lutheran University,WA,173,362,403,160,396,470,293,269,344,325,180,300,Master's Colleges and Universities (medium programs),Private,50.53,256
+University of Kentucky,KY,563,367,546,326,87,154,368,347,464,395,281,314,Research Universities (very high research activity),Public,50.53,257
+College of the Ozarks,MO,13,235,40,600-650,444,1,1,88,436,229,560,364,Baccalaureate Colleges--Diverse Fields,Private,50.49,258
+"University of California, Riverside",CA,572,204,334,264,289,218,240,339,400,13,255,332,Research Universities (very high research activity),Public,50.44,259
+St. Michael's College,VT,128,222,88,532,258,541,57,296,87,12,377,366,Baccalaureate Colleges--Arts & Sciences,Private,50.4,260
+Quinnipiac University,CT,479,224,296,154,388,389,96,571,120,71,539,600-650,Master's Colleges and Universities (larger programs),Private,50.35,261
+Gordon College,MA,144,361,482,217,583,476,52,323,207,272,282,210,Baccalaureate Colleges--Arts & Sciences,Private,50.34,262
+Ursinus College,PA,212,171,189,600-650,469,494,260,131,101,150,87,104,Baccalaureate Colleges--Arts & Sciences,Private,50.2,263
+San Diego State University,CA,538,169,280,211,206,97,300,516,500,406,332,526,Research Universities (high research activity),Public,50.08,264
+Utah State University,UT,289,573,579,275,160,59,285,379,522,169,309,380,Research Universities (high research activity),Public,50.01,265
+Rollins College,FL,199,374,472,401,291,297,321,83,208,422,172,415,Master's Colleges and Universities (larger programs),Private,49.94,266
+Goucher College,MD,158,384,598,554,176,231,237,364,202,586,268,143,Baccalaureate Colleges--Arts & Sciences,Private,49.9,267
+Stonehill College,MA,364,221,431,284,346,453,25,600-650,83,123,406,351,Baccalaureate Colleges--Arts & Sciences,Private,49.88,268
+Carroll College,MT,94,448,132,230,369,351,79,428,424,190,412,344,Baccalaureate Colleges--Diverse Fields,Private,49.74,269
+St. Mary's College,IN,283,268,193,497,260,416,37,435,110,62,432,259,Baccalaureate Colleges--Arts & Sciences,Private,49.73,270
+St. Mary's College of California,CA,203,233,75,94,541,423,411,529,337,478,323,529,Master's Colleges and Universities (larger programs),Private,49.73,271
+San Jose State University,CA,535,211,289,50,355,71,410,359,600-650,600-650,366,594,Master's Colleges and Universities (larger programs),Public,49.7,272
+Taylor University,IN,329,278,342,547,548,155,271,400,106,33,265,187,Baccalaureate Colleges--Diverse Fields,Private,49.7,273
+The Master's College,CA,17,302,117,308,600-650,569,155,11,278,118,384,543,Baccalaureate Colleges--Diverse Fields,Private,49.59,274
+Cedarville University,OH,218,275,373,125,600-650,291,21,600-650,269,329,560,283,Baccalaureate Colleges--Diverse Fields,Private,49.49,275
+Hanover College,IN,54,395,566,470,497,334,245,600-650,139,194,264,130,Baccalaureate Colleges--Arts & Sciences,Private,49.47,276
+Randolph-Macon College,VA,333,414,353,181,192,468,320,392,288,428,400,176,Baccalaureate Colleges--Arts & Sciences,Private,49.46,277
+University of Mississippi,MS,169,376,74,444,153,226,564,78,440,135,339,407,Research Universities (high research activity),Public,49.18,278
+Mississippi State University,MS,180,337,33,409,118,299,557,276,494,109,357,301,Research Universities (very high research activity),Public,49.13,279
+"CUNY, Baruch College",NY,567,163,401,176,338,11,257,174,454,370,552,600-650,Master's Colleges and Universities (larger programs),Public,49.08,280
+Nebraska Wesleyan University,NE,81,296,38,593,400,425,261,600-650,252,136,83,218,Baccalaureate Colleges--Arts & Sciences,Private,49.04,281
+"University of Tennessee, Knoxville",TN,491,297,326,298,104,254,556,281,466,293,356,312,Research Universities (very high research activity),Public,49.03,282
+St. Anselm College,NH,59,286,119,424,264,542,74,526,119,27,560,296,Baccalaureate Colleges--Arts & Sciences,Private,48.98,283
+Emerson College,MA,403,184,454,461,190,315,112,578,70,137,515,600-650,Master's Colleges and Universities (larger programs),Private,48.97,284
+Morehouse College,GA,314,208,68,248,101,596,600-650,230,448,484,176,212,Baccalaureate Colleges--Arts & Sciences,Private,48.89,285
+St. John's University,MN,512,164,102,310,442,363,77,388,116,72,560,186,Baccalaureate Colleges--Arts & Sciences,Private,48.82,286
+Coe College,IA,37,415,572,305,362,559,344,585,205,411,125,223,Baccalaureate Colleges--Arts & Sciences,Private,48.81,287
+Cornell College,IA,28,427,600-650,418,410,458,289,433,168,430,228,102,Baccalaureate Colleges--Arts & Sciences,Private,48.76,288
+California Lutheran University,CA,171,271,333,186,593,460,159,233,302,304,343,482,Master's Colleges and Universities (larger programs),Private,48.74,289
+University of Scranton,PA,516,192,148,313,427,479,243,228,175,376,142,345,Master's Colleges and Universities (larger programs),Private,48.59,290
+Colorado State University,CO,443,322,294,274,287,197,280,226,457,112,354,325,Research Universities (very high research activity),Public,48.54,291
+St. Norbert College,WI,45,352,114,524,399,451,163,503,172,30,383,286,Baccalaureate Colleges--Arts & Sciences,Private,48.52,292
+California Maritime Academy,CA,355,246,135,8,506,397,569,219,347,28,560,600-650,Baccalaureate Colleges--Diverse Fields,Public,48.47,293
+Bryant University,RI,600-650,261,368,114,262,487,135,421,103,24,560,600-650,Master's Colleges and Universities (medium programs),Private,48.44,294
+Luther College,IA,165,219,149,545,344,508,152,197,247,519,111,163,Baccalaureate Colleges--Arts & Sciences,Private,48.36,295
+Beloit College,WI,182,257,465,600-650,267,471,229,338,158,474,95,97,Baccalaureate Colleges--Arts & Sciences,Private,48.31,296
+St. Joseph's College,NY,450,232,3,276,112,570,449,250,359,38,456,600-650,Master's Colleges and Universities (medium programs),Private,48.3,297
+Loyola University Chicago,IL,506,209,158,198,172,521,440,227,326,514,351,229,Research Universities (high research activity),Private,48.28,298
+Whittier College,CA,201,344,438,324,353,498,362,40,341,125,195,193,Baccalaureate Colleges--Arts & Sciences,Private,48.23,299
+"SUNY, Buffalo (University at Buffalo)",NY,561,201,316,174,245,288,332,600-650,366,317,329,600-650,Research Universities (very high research activity),Public,48.22,300
+"CUNY, Brooklyn College",NY,525,357,486,441,113,26,345,291,555,476,298,442,Master's Colleges and Universities (larger programs),Public,48.19,301
+College of St. Benedict,MN,512,122,42,526,509,435,32,196,117,76,278,271,Baccalaureate Colleges--Arts & Sciences,Private,48.18,302
+Butler University,IN,444,223,301,235,385,417,80,422,273,548,336,272,Master's Colleges and Universities (medium programs),Private,48.15,303
+Oregon State University,OR,591,369,315,195,203,318,266,137,503,189,277,340,Research Universities (very high research activity),Public,48.08,304
+Bradley University,IL,596,249,144,135,222,600-650,196,25,295,373,484,338,Master's Colleges and Universities (larger programs),Private,48.07,305
+"University of Maryland, Baltimore County",MD,594,293,586,109,499,182,461,118,472,600-650,144,310,Research Universities (high research activity),Public,47.95,306
+Linfield College,OR,40,307,276,466,487,562,242,562,219,183,151,244,Baccalaureate Colleges--Arts & Sciences,Private,47.93,307
+Drew University,NJ,215,437,600-650,472,251,366,302,79,206,510,296,85,Baccalaureate Colleges--Arts & Sciences,Private,47.91,308
+Washington College,MD,114,368,568,563,239,434,22,551,121,277,317,347,Baccalaureate Colleges--Arts & Sciences,Private,47.9,309
+College of Idaho,ID,80,396,393,582,308,430,419,80,320,46,76,255,Baccalaureate Colleges--Arts & Sciences,Private,47.83,310
+Simmons College,MA,305,291,206,332,252,568,125,301,201,93,463,372,Master's Colleges and Universities (larger programs),Private,47.66,311
+DePaul University,IL,466,244,97,177,241,422,292,396,352,437,495,555,Doctoral/Research Universities,Private,47.56,312
+University of La Verne,CA,208,250,93,295,519,324,323,24,391,49,517,507,Doctoral/Research Universities,Private,47.49,313
+Agnes Scott College,GA,147,332,517,598,310,383,499,316,253,492,42,58,Baccalaureate Colleges--Arts & Sciences,Private,47.34,314
+Seattle Pacific University,WA,287,276,224,359,430,466,116,354,231,250,274,418,Master's Colleges and Universities (larger programs),Private,47.21,315
+New College of Florida,FL,193,245,470,504,434,73,533,574,329,567,18,600-650,Baccalaureate Colleges--Arts & Sciences,Public,47.2,316
+Stetson University,FL,292,483,497,437,196,402,308,122,265,359,259,228,Master's Colleges and Universities (larger programs),Private,47.18,317
+Lebanon Valley College,PA,236,264,90,280,439,505,168,411,153,102,560,277,Baccalaureate Colleges--Diverse Fields,Private,47.04,318
+University of New England,ME,248,523,322,88,462,574,249,#N/A,327,#N/A,260,600-650,Master's Colleges and Universities (larger programs),Private,47.02,319
+"SUNY, College of Environmental Science and Forestry",NY,501,309,442,398,576,175,307,600-650,349,43,161,115,Doctoral/Research Universities,Public,47.02,320
+Ithaca College,NY,377,325,495,413,231,477,181,268,157,374,344,248,Master's Colleges and Universities (larger programs),Private,47,321
+Birmingham-Southern College,AL,162,434,600-650,322,269,261,544,600-650,293,532,211,150,Baccalaureate Colleges--Arts & Sciences,Private,47,322
+Hartwick College,NY,263,486,490,99,456,474,395,67,380,585,333,227,Baccalaureate Colleges--Arts & Sciences,Private,46.92,323
+Michigan Technological University,MI,600-650,324,253,61,554,365,316,99,525,556,192,194,Research Universities (high research activity),Public,46.88,324
+University of Rhode Island,RI,600-650,348,194,208,198,381,399,311,409,73,379,424,Research Universities (high research activity),Public,46.85,325
+"University of Alaska, Fairbanks",AK,119,491,378,156,356,49,600-650,244,600-650,590,415,480,Research Universities (high research activity),Public,46.71,326
+Union University,TN,315,81,5,362,600-650,126,490,514,342,213,474,342,Master's Colleges and Universities (larger programs),Private,46.65,327
+Washington State University,WA,583,314,231,214,250,275,446,198,439,191,376,405,Research Universities (very high research activity),Public,46.64,328
+Bethel University,MN,56,290,47,543,420,514,108,387,187,164,341,600-650,Master's Colleges and Universities (larger programs),Private,46.44,329
+University of South Dakota,SD,82,460,18,267,205,398,471,537,527,242,369,487,Research Universities (high research activity),Public,46.43,330
+Rockhurst University,MO,221,364,523,220,283,438,435,130,184,286,560,294,Master's Colleges and Universities (larger programs),Private,46.42,331
+Duquesne University,PA,556,229,82,314,301,515,167,491,212,275,380,313,Research Universities (high research activity),Private,46.41,332
+Elizabethtown College,PA,397,306,66,345,424,600-650,100,32,123,55,382,474,Baccalaureate Colleges--Diverse Fields,Private,46.36,333
+"CUNY, Queens College",NY,552,226,271,435,201,13,315,200,520,427,466,466,Master's Colleges and Universities (larger programs),Public,46.35,334
+University of New Mexico,NM,216,531,580,304,165,128,480,284,600-650,551,236,318,Research Universities (very high research activity),Public,46.33,335
+"California State Polytechnic University, Pomona",CA,440,152,377,148,463,84,342,566,600-650,536,438,583,Master's Colleges and Universities (larger programs),Public,46.22,336
+Wagner College,NY,422,450,322,152,485,385,408,#N/A,215,#N/A,453,509,Master's Colleges and Universities (medium programs),Private,46.21,337
+Doane College,NE,15,522,399,321,573,588,439,600-650,233,74,130,397,Baccalaureate Colleges--Arts & Sciences,Private,46.19,338
+Western Washington University,WA,453,317,516,272,406,167,131,521,423,345,375,447,Master's Colleges and Universities (larger programs),Public,46.13,339
+Missouri University of Science and Technology,MO,600-650,340,499,63,320,301,394,326,524,600-650,374,203,Research Universities (high research activity),Public,46.1,340
+Samford University,AL,160,299,134,488,540,139,54,432,321,416,560,275,Master's Colleges and Universities (medium programs),Private,45.88,341
+Howard University,DC,600-650,342,418,255,110,586,535,549,377,133,254,222,Research Universities (high research activity),Private,45.86,342
+"University of Illinois, Chicago",IL,458,421,600-650,127,501,192,269,288,516,506,275,413,Research Universities (very high research activity),Public,45.84,343
+University of Houston,TX,523,380,286,143,174,233,576,217,595,497,391,500,Research Universities (very high research activity),Public,45.83,344
+University of the Pacific,CA,369,295,577,182,473,550,140,55,372,579,214,374,Doctoral/Research Universities,Private,45.6,345
+William Jewell College,MO,195,521,585,256,465,501,389,342,271,251,232,153,Baccalaureate Colleges--Arts & Sciences,Private,45.58,346
+Messiah College,PA,416,330,468,294,600-650,452,75,567,127,221,327,357,Baccalaureate Colleges--Diverse Fields,Private,45.56,347
+Ohio University,OH,519,397,331,343,217,270,566,298,390,85,240,350,Research Universities (high research activity),Public,45.56,348
+Rochester Institute of Technology,NY,551,251,200,62,472,527,247,258,501,600-650,303,386,Master's Colleges and Universities (larger programs),Private,45.49,349
+Chapman University,CA,331,132,277,311,451,461,278,189,289,561,311,453,Master's Colleges and Universities (larger programs),Private,45.43,350
+Oklahoma City University,OK,382,518,322,238,223,280,516,#N/A,427,#N/A,389,284,Master's Colleges and Universities (larger programs),Private,45.42,351
+University of Idaho,ID,344,410,50,222,265,391,418,138,542,246,325,362,Research Universities (high research activity),Public,45.38,352
+Washington & Jefferson College,PA,462,200,183,542,246,536,233,591,135,231,222,280,Baccalaureate Colleges--Arts & Sciences,Private,45.33,353
+Asbury University,KY,75,393,297,600-650,421,295,383,533,220,99,315,155,Baccalaureate Colleges--Diverse Fields,Private,45.33,354
+Lake Forest College,IL,140,341,463,397,422,443,401,409,236,147,421,204,Baccalaureate Colleges--Arts & Sciences,Private,45.28,355
+Eckerd College,FL,106,382,247,558,452,459,551,63,275,268,158,90,Baccalaureate Colleges--Arts & Sciences,Private,45.26,356
+Florida Institute of Technology,FL,435,400,60,96,537,554,546,29,418,517,367,114,Doctoral/Research Universities,Private,45.22,357
+Hamline University,MN,123,418,492,411,280,549,301,215,239,298,468,191,Master's Colleges and Universities (larger programs),Private,45.08,358
+Truman State University,MO,600-650,242,421,510,479,149,286,172,395,559,136,126,Master's Colleges and Universities (medium programs),Public,45.07,359
+West Virginia University,WV,386,459,348,337,140,347,559,135,476,227,345,395,Research Universities (high research activity),Public,44.97,360
+Oklahoma Baptist University,OK,71,480,12,505,275,244,521,600-650,393,382,435,195,Baccalaureate Colleges--Diverse Fields,Private,44.77,361
+Ouachita Baptist University,AR,41,354,161,600-650,193,146,593,600-650,343,195,560,367,Baccalaureate Colleges--Arts & Sciences,Private,44.72,362
+"California State University, Long Beach",CA,430,181,173,261,368,77,403,474,600-650,572,419,582,Master's Colleges and Universities (larger programs),Public,44.66,363
+Drexel University,PA,539,294,358,91,358,600-650,267,2,508,600-650,189,421,Research Universities (high research activity),Private,44.66,364
+Azusa Pacific University,CA,281,206,101,334,570,518,170,192,334,371,328,505,Doctoral/Research Universities,Private,44.65,365
+"California State University, Fresno",CA,459,256,52,201,405,89,523,366,600-650,398,481,540,Master's Colleges and Universities (larger programs),Public,44.64,366
+"University of Texas, Dallas",TX,463,328,496,45,503,600-650,528,33,411,392,302,330,Research Universities (high research activity),Public,44.63,367
+University of Cincinnati,OH,600-650,292,115,210,132,358,538,363,550,543,395,469,Research Universities (very high research activity),Public,44.6,368
+Berea College,KY,44,424,254,559,360,12,596,600-650,404,110,560,125,Baccalaureate Colleges--Arts & Sciences,Private,44.52,369
+New Mexico Institute of Mining and Technology,NM,298,587,600-650,121,495,52,431,358,548,546,560,70,Master's Colleges and Universities (medium programs),Public,44.48,370
+Concordia College—Moorhead,MN,231,282,36,597,600-650,500,88,450,203,82,289,152,Baccalaureate Colleges--Arts & Sciences,Private,44.47,371
+St. Vincent College,PA,568,305,48,394,256,545,303,600-650,185,23,442,234,Baccalaureate Colleges--Arts & Sciences,Private,44.47,372
+Montana Tech of the University of Montana,MT,470,600-650,525,92,533,163,543,52,570,167,359,573,Baccalaureate Colleges--Diverse Fields,Public,44.29,373
+Kansas State University,KS,341,366,354,347,169,266,414,507,545,522,262,402,Research Universities (high research activity),Public,44.21,374
+Marist College,NY,540,117,61,433,557,377,95,600-650,147,413,439,579,Master's Colleges and Universities (larger programs),Private,44.1,375
+"New Mexico State University, Las Cruces",NM,192,590,351,215,367,169,600-650,145,598,350,270,449,Research Universities (high research activity),Public,43.97,376
+Siena College,NY,518,281,251,318,464,463,367,600-650,137,91,387,516,Baccalaureate Colleges--Arts & Sciences,Private,43.92,377
+University of Mount Union,OH,600-650,566,268,5,413,600-650,402,31,282,22,560,337,Baccalaureate Colleges--Diverse Fields,Private,43.88,378
+Hiram College,OH,79,512,184,540,282,592,477,261,230,15,397,121,Baccalaureate Colleges--Arts & Sciences,Private,43.82,379
+"University of Maine, Orono",ME,600-650,449,180,417,129,376,456,376,449,77,307,373,Research Universities (high research activity),Public,43.79,380
+"CUNY, Hunter College",NY,431,272,500,465,401,18,251,243,565,600-650,292,388,Master's Colleges and Universities (larger programs),Public,43.67,381
+Ripon College,WI,138,373,72,600-650,376,552,262,579,262,100,169,181,Baccalaureate Colleges--Arts & Sciences,Private,43.65,382
+Hofstra University,NY,562,417,600-650,100,233,359,500,292,397,600-650,521,600-650,Doctoral/Research Universities,Private,43.6,383
+"University of Hawaii, Manoa",HI,335,444,600-650,382,186,130,291,249,575,600-650,402,400,Research Universities (very high research activity),Public,43.54,384
+New Jersey Institute of Technology,NJ,600-650,431,600-650,42,592,186,355,98,584,597,318,600-650,Research Universities (high research activity),Public,43.5,385
+"University of Minnesota, Morris",MN,219,345,367,550,600-650,245,388,103,353,316,349,197,Baccalaureate Colleges--Arts & Sciences,Public,43.43,386
+"University of Nevada, Reno",NV,393,435,591,212,384,102,522,124,590,581,301,406,Research Universities (high research activity),Public,43.36,387
+"University of Colorado, Denver",CO,154,489,534,183,600-650,166,426,252,600-650,472,420,463,Research Universities (high research activity),Public,43.32,388
+"SUNY, Albany (University at Albany)",NY,600-650,311,507,372,211,356,494,425,301,117,465,278,Research Universities (very high research activity),Public,43.29,389
+George Fox University,OR,107,399,329,406,305,486,149,473,299,132,560,408,Master's Colleges and Universities (larger programs),Private,43.24,390
+Marietta College,OH,168,468,309,193,318,584,473,434,406,388,330,287,Baccalaureate Colleges--Diverse Fields,Private,43.24,391
+University of Evansville,IN,183,334,284,518,544,410,390,202,331,386,244,237,Master's Colleges and Universities (smaller programs),Private,43.13,392
+St. Mary's University of Minnesota,MN,101,479,538,502,331,274,207,600-650,318,400,460,473,Doctoral/Research Universities,Private,43.12,393
+Susquehanna University,PA,348,319,327,494,490,406,119,557,105,111,560,196,Baccalaureate Colleges--Arts & Sciences,Private,43.03,394
+Wesleyan College,GA,22,552,549,591,600-650,198,600-650,600-650,398,175,123,135,Baccalaureate Colleges--Arts & Sciences,Private,42.87,395
+"University of Alabama, Huntsville",AL,296,433,382,107,587,267,485,72,600-650,600-650,487,452,Research Universities (very high research activity),Public,42.76,396
+Seton Hall University,NJ,600-650,372,448,163,323,600-650,268,3,310,466,362,580,Doctoral/Research Universities,Private,42.7,397
+Le Moyne College,NY,521,329,106,167,458,516,469,512,204,83,560,486,Master's Colleges and Universities (larger programs),Private,42.55,398
+"California State University, San Bernardino",CA,319,168,9,269,600-650,222,468,181,600-650,318,506,554,Master's Colleges and Universities (larger programs),Public,42.43,399
+Towson University,MD,533,304,423,360,292,181,334,453,428,421,504,569,Master's Colleges and Universities (larger programs),Public,42.42,400
+Mercer University,GA,320,326,168,288,334,577,282,66,419,600-650,361,375,Master's Colleges and Universities (larger programs),Private,42.35,401
+Huntington University,IN,25,404,13,600-650,600-650,420,118,600-650,339,50,381,548,Baccalaureate Colleges--Diverse Fields,Private,42.33,402
+Illinois State University,IL,600-650,277,328,385,255,322,244,299,392,211,528,542,Doctoral/Research Universities,Public,42.3,403
+Belmont University,TN,293,377,509,564,477,195,314,564,216,338,418,429,Master's Colleges and Universities (larger programs),Private,42.26,404
+University of Central Florida,FL,585,216,162,388,357,161,489,263,470,456,401,436,Research Universities (very high research activity),Public,42.11,405
+Westminster College,PA,570,255,17,453,247,533,238,600-650,200,32,560,247,Baccalaureate Colleges--Arts & Sciences,Private,42.07,406
+St. John's University,NY,590,440,536,159,164,437,591,160,451,560,385,600-650,Doctoral/Research Universities,Private,42.01,407
+Hollins University,VA,29,600-650,600-650,580,154,600-650,396,50,256,149,560,238,Baccalaureate Colleges--Arts & Sciences,Private,42.01,408
+Pace University,NY,600-650,463,554,81,470,403,324,141,425,599,409,600-650,Doctoral/Research Universities,Private,42,409
+Weber State University,UT,259,586,129,266,408,29,405,429,600-650,494,556,599,Master's Colleges and Universities (medium programs),Public,41.99,410
+Alma College,MI,304,391,138,501,581,583,421,327,285,113,84,219,Baccalaureate Colleges--Arts & Sciences,Private,41.99,411
+University of North Dakota,ND,600-650,467,413,420,105,327,304,518,543,423,393,426,Research Universities (high research activity),Public,41.91,412
+Bellarmine University,KY,67,452,388,496,547,355,397,458,316,352,472,365,Master's Colleges and Universities (larger programs),Private,41.87,413
+St. Edward's University,TX,164,379,86,473,600-650,442,501,442,315,155,182,556,Master's Colleges and Universities (larger programs),Private,41.86,414
+Thomas Aquinas College,CA,367,156,142,600-650,600-650,162,14,600-650,178,509,560,99,Baccalaureate Colleges--Arts & Sciences,Private,41.84,415
+Christopher Newport University,VA,325,300,481,446,585,225,313,534,369,324,340,576,Master's Colleges and Universities (smaller programs),Public,41.8,416
+Northwestern College,IA,3,503,505,600-650,574,436,101,582,277,131,408,307,Baccalaureate Colleges--Diverse Fields,Private,41.78,417
+Temple University,PA,598,220,73,341,177,489,423,397,446,527,348,519,Research Universities (high research activity),Public,41.75,418
+Clarke University,IA,6,416,71,489,549,600-650,503,462,346,178,368,446,Baccalaureate Colleges--Diverse Fields,Private,41.65,419
+Mount St. Mary's College,CA,121,331,7,296,270,579,374,600-650,432,18,560,595,Master's Colleges and Universities (smaller programs),Private,41.55,420
+Randolph College,VA,24,504,346,600-650,326,600-650,337,437,192,241,297,250,Baccalaureate Colleges--Arts & Sciences,Private,41.52,421
+Adelphi University,NY,347,387,361,307,273,597,377,401,274,391,440,506,Doctoral/Research Universities,Private,41.44,422
+"California State University, Fullerton",CA,424,284,444,319,379,57,515,221,600-650,539,507,593,Master's Colleges and Universities (larger programs),Public,41.4,423
+"California State University, Chico",CA,529,203,64,188,543,108,464,493,571,518,560,534,Master's Colleges and Universities (larger programs),Public,41.34,424
+Berry College,GA,139,430,508,600-650,418,258,380,597,389,577,174,189,Baccalaureate Colleges--Arts & Sciences,Private,41.32,425
+University of Montana,MT,155,565,473,464,191,399,413,242,556,399,238,417,Research Universities (high research activity),Public,41.25,426
+Georgia State University,GA,243,335,146,350,210,336,445,374,579,584,501,558,Research Universities (very high research activity),Public,41.25,427
+"University of Alaska, Anchorage",AK,253,589,571,184,416,74,582,448,600-650,600-650,352,600-650,Master's Colleges and Universities (larger programs),Public,41.22,428
+College of Charleston,SC,345,323,535,587,582,168,406,164,305,323,371,422,Master's Colleges and Universities (medium programs),Public,41.21,429
+North Dakota State University,ND,600-650,494,600-650,290,152,319,235,353,539,587,448,428,Research Universities (very high research activity),Public,41.11,430
+King's College,PA,429,445,229,390,447,524,455,447,241,48,326,303,Master's Colleges and Universities (smaller programs),Private,41.1,431
+Capital University,OH,184,538,527,484,263,520,333,410,309,173,358,385,Master's Colleges and Universities (medium programs),Private,41.08,432
+Erskine College,SC,153,461,137,539,271,531,139,36,373,436,560,132,Baccalaureate Colleges--Arts & Sciences,Private,41.06,433
+Guilford College,NC,70,490,243,600-650,281,548,561,389,276,114,266,180,Baccalaureate Colleges--Arts & Sciences,Private,41.03,434
+"University of Alabama, Birmingham",AL,449,438,432,190,569,419,427,34,540,498,226,383,Research Universities (very high research activity),Public,40.98,435
+New School,NY,191,359,548,471,212,580,448,1,370,569,283,585,Doctoral/Research Universities,Private,40.96,436
+St. John's College,NM,178,600-650,600-650,515,600-650,404,340,58,374,600-650,116,68,Baccalaureate Colleges--Arts & Sciences,Private,40.95,437
+Alfred University,NY,286,559,545,196,313,600-650,507,461,399,549,312,75,Master's Colleges and Universities (larger programs),Private,40.94,438
+Hastings College,NE,12,540,443,483,391,513,430,519,371,335,394,370,Baccalaureate Colleges--Diverse Fields,Private,40.85,439
+Converse College,SC,135,600-650,600-650,556,546,600-650,248,21,255,60,217,157,Master's Colleges and Universities (medium programs),Private,40.81,440
+"California State University, Northridge",CA,517,517,563,216,274,92,540,295,600-650,393,524,566,Master's Colleges and Universities (larger programs),Public,40.79,441
+Salem College,NC,53,560,89,600-650,536,598,467,56,307,81,221,208,Baccalaureate Colleges--Arts & Sciences,Private,40.75,442
+Roger Williams University,RI,534,405,440,306,302,296,393,535,387,516,414,600-650,Master's Colleges and Universities (smaller programs),Private,40.72,443
+Rowan University,NJ,593,239,156,500,542,386,434,513,199,10,407,538,Master's Colleges and Universities (larger programs),Public,40.61,444
+University of Louisville,KY,467,464,314,365,335,183,568,262,552,503,198,455,Research Universities (very high research activity),Public,40.59,445
+University of South Florida,FL,437,205,127,363,316,278,571,476,531,526,363,349,Research Universities (very high research activity),Public,40.56,446
+Texas Tech University,TX,264,355,453,226,600-650,390,539,112,455,468,436,392,Research Universities (high research activity),Public,40.54,447
+Elmhurst College,IL,434,408,398,361,523,526,70,464,287,218,422,537,Master's Colleges and Universities (medium programs),Private,40.5,448
+Oregon Institute of Technology,OR,600-650,550,128,106,565,393,364,51,547,415,489,600-650,Baccalaureate Colleges--Diverse Fields,Public,40.47,449
+"California State University, Sacramento",CA,395,339,204,194,510,148,531,495,600-650,512,535,600-650,Master's Colleges and Universities (larger programs),Public,40.47,450
+"University of Texas, El Paso",TX,268,516,6,353,518,189,600-650,48,600-650,292,399,420,Research Universities (high research activity),Public,40.45,451
+Appalachian State University,NC,469,202,39,578,502,145,219,546,433,363,532,481,Master's Colleges and Universities (larger programs),Public,40.45,452
+Northwestern College,MN,69,447,167,600-650,397,578,255,19,360,334,347,600-650,Baccalaureate Colleges--Diverse Fields,Private,40.43,453
+Centenary College of Louisiana,LA,26,600-650,600-650,600-650,600-650,249,373,594,381,538,191,205,Baccalaureate Colleges--Arts & Sciences,Private,40.42,454
+Central College,IA,508,432,159,368,460,566,348,484,250,44,433,274,Baccalaureate Colleges--Arts & Sciences,Private,40.4,455
+North Central College,IL,130,353,478,391,597,482,432,531,335,475,295,456,Master's Colleges and Universities (medium programs),Private,40.32,456
+Baldwin-Wallace University,OH,294,378,165,408,467,557,221,468,303,249,509,358,Master's Colleges and Universities (larger programs),Private,40.22,457
+Georgetown College,KY,96,577,411,574,359,600-650,392,8,333,146,179,439,Baccalaureate Colleges--Arts & Sciences,Private,40.16,458
+Virginia Commonwealth University,VA,499,262,58,410,398,357,369,119,517,390,417,504,Research Universities (very high research activity),Public,40.04,459
+Augustana College,SD,189,343,374,533,598,600-650,129,90,349,493,245,331,Baccalaureate Colleges--Diverse Fields,Private,39.99,460
+St. Francis College,NY,277,413,29,379,187,243,600-650,496,509,343,560,523,Baccalaureate Colleges--Diverse Fields,Private,39.98,461
+San Francisco State University,CA,494,375,522,213,600-650,129,437,341,600-650,552,427,511,Master's Colleges and Universities (larger programs),Public,39.86,462
+Emory and Henry College,VA,20,562,76,600-650,254,510,580,500,300,56,560,169,Baccalaureate Colleges--Arts & Sciences,Private,39.8,463
+Canisius College,NY,589,310,122,530,303,407,492,506,279,424,294,376,Master's Colleges and Universities (larger programs),Private,39.73,464
+Dordt College,IA,413,386,70,438,578,439,117,449,272,180,560,290,Baccalaureate Colleges--Diverse Fields,Private,39.71,465
+Wichita State University,KS,373,556,551,200,330,342,493,190,564,454,386,503,Research Universities (high research activity),Public,39.67,466
+Biola University,CA,133,252,336,577,482,475,157,600-650,331,366,519,333,Doctoral/Research Universities,Private,39.6,467
+La Salle University,PA,524,392,143,342,560,538,295,199,291,256,457,521,Master's Colleges and Universities (larger programs),Private,39.6,468
+"Brigham Young University, Idaho",ID,143,548,476,428,600-650,47,86,600-650,537,496,527,600-650,Baccalaureate Colleges--Diverse Fields,Private,39.54,469
+Christian Brothers University,TN,600-650,436,141,120,522,534,600-650,123,450,480,411,306,Master's Colleges and Universities (medium programs),Private,39.44,470
+Louisiana Tech University,LA,439,534,544,249,600-650,204,517,38,510,269,458,496,Research Universities (high research activity),Public,39.43,471
+Wells College,NY,36,599,593,421,475,600-650,554,116,429,35,279,231,Baccalaureate Colleges--Arts & Sciences,Private,39.39,472
+Simpson College,IA,181,469,310,600-650,515,564,361,472,191,106,293,361,Baccalaureate Colleges--Arts & Sciences,Private,39.3,473
+St. John Fisher College,NY,599,347,96,407,361,589,417,559,179,63,491,387,Doctoral/Research Universities,Private,39.3,474
+Houghton College,NY,100,259,321,485,600-650,600-650,254,282,270,372,560,200,Baccalaureate Colleges--Arts & Sciences,Private,39.27,475
+Goshen College,IN,63,420,425,600-650,328,525,352,548,249,152,560,106,Baccalaureate Colleges--Arts & Sciences,Private,39.15,476
+"University of Massachusetts, Lowell",MA,543,428,600-650,74,483,412,436,517,495,598,523,544,Research Universities (high research activity),Public,39.14,477
+"Fairleigh Dickinson University, Metropolitan Campus",NJ,600-650,597,600-650,130,279,150,420,255,526,600-650,560,600-650,Master's Colleges and Universities (larger programs),Private,39.03,478
+"University of Texas, Pan American",TX,224,455,31,514,529,64,590,343,582,144,529,549,Master's Colleges and Universities (larger programs),Public,38.88,479
+"University of North Carolina, Asheville",NC,282,407,392,586,600-650,117,382,511,473,540,314,279,Baccalaureate Colleges--Arts & Sciences,Public,38.78,480
+South Dakota State University,SD,432,546,383,366,322,361,312,334,488,224,500,401,Research Universities (high research activity),Public,38.76,481
+Hood College,MD,196,502,595,289,562,590,400,420,228,240,560,178,Master's Colleges and Universities (medium programs),Private,38.75,482
+Moravian College,PA,380,485,582,553,468,547,347,590,111,86,291,360,Baccalaureate Colleges--Arts & Sciences,Private,38.67,483
+"University of North Carolina, Wilmington",NC,354,267,179,600-650,600-650,212,371,488,394,289,449,528,Master's Colleges and Universities (larger programs),Public,38.59,484
+North Greenville University,SC,4,549,20,600-650,459,265,363,414,465,210,560,600-650,Baccalaureate Colleges--Diverse Fields,Private,38.54,485
+Loyola University New Orleans,LA,327,481,600-650,356,375,551,370,13,376,600-650,425,217,Master's Colleges and Universities (larger programs),Private,38.54,486
+Texas State University,TX,411,443,121,517,173,341,472,413,513,299,488,574,Master's Colleges and Universities (larger programs),Public,38.39,487
+"University of North Carolina, Charlotte",NC,564,457,272,317,504,314,202,460,521,435,413,536,Doctoral/Research Universities,Public,38.39,488
+Covenant College,GA,206,370,303,600-650,438,310,398,600-650,375,570,299,343,Baccalaureate Colleges--Diverse Fields,Private,38.25,489
+Roanoke College,VA,226,475,429,571,594,478,310,391,238,303,372,445,Baccalaureate Colleges--Arts & Sciences,Private,38.19,490
+Albright College,PA,233,541,565,367,372,600-650,463,23,304,219,470,396,Baccalaureate Colleges--Arts & Sciences,Private,38.13,491
+Lycoming College,PA,401,243,15,581,228,600-650,482,470,221,97,560,324,Baccalaureate Colleges--Arts & Sciences,Private,38.06,492
+"St. Mary's University, San Antonio",TX,230,520,430,392,285,546,510,218,497,409,350,233,Master's Colleges and Universities (larger programs),Private,37.92,493
+Wayne State University,MI,504,482,19,219,215,428,600-650,395,600-650,442,547,457,Research Universities (very high research activity),Public,37.9,494
+Vanguard University of Southern California,CA,51,514,488,600-650,600-650,401,379,47,311,14,560,461,Baccalaureate Colleges--Diverse Fields,Private,37.89,495
+Rider University,NJ,577,349,94,329,526,600-650,488,6,312,300,423,493,Master's Colleges and Universities (larger programs),Private,37.83,496
+North Carolina A&T State University,NC,555,527,111,141,299,499,600-650,471,588,198,469,462,Doctoral/Research Universities,Public,37.83,497
+Marlboro College,VT,61,600-650,600-650,600-650,600-650,400,341,469,292,326,202,257,Baccalaureate Colleges--Arts & Sciences,Private,37.73,498
+Westminster College,MO,112,497,518,414,325,497,475,600-650,338,295,560,258,Baccalaureate Colleges--Arts & Sciences,Private,37.68,499
+Spring Hill College,AL,92,499,252,600-650,179,587,509,321,325,64,560,454,Master's Colleges and Universities (smaller programs),Private,37.61,500
+"University of Nevada, Las Vegas",NV,374,488,600-650,427,433,48,491,153,600-650,545,478,570,Research Universities (high research activity),Public,37.43,501
+"Embry-Riddle Aeronautical University, Daytona Beach",FL,498,575,600-650,101,600-650,382,508,133,483,600-650,526,578,Master's Colleges and Universities (medium programs),Private,37.41,502
+Illinois College,IL,474,333,362,373,600-650,543,387,600-650,354,596,257,221,Baccalaureate Colleges--Arts & Sciences,Private,37.39,503
+St. Cloud State University,MN,600-650,600-650,600-650,151,306,264,429,497,554,486,531,589,Master's Colleges and Universities (larger programs),Public,37.36,504
+West Chester University of Pennsylvania,PA,597,253,104,457,435,388,339,600-650,402,143,549,571,Master's Colleges and Universities (larger programs),Public,37.25,505
+"University of Texas, Arlington",TX,371,584,456,126,432,535,578,64,586,452,485,489,Research Universities (high research activity),Public,37.14,506
+Meredith College,NC,388,476,43,576,551,481,241,293,385,232,300,563,Baccalaureate Colleges--Diverse Fields,Private,37.05,507
+East Carolina University,NC,427,383,69,552,449,285,253,393,475,203,548,587,Doctoral/Research Universities,Public,37.05,508
+"University of Massachusetts, Boston",MA,405,510,402,233,425,395,519,313,600-650,477,426,458,Research Universities (high research activity),Public,37,509
+Western Kentucky University,KY,383,551,34,506,276,349,600-650,159,538,209,331,495,Master's Colleges and Universities (larger programs),Public,36.98,510
+Murray State University,KY,404,568,54,534,431,300,570,60,442,34,437,539,Master's Colleges and Universities (larger programs),Public,36.97,511
+Benedictine University,IL,428,390,417,346,590,350,511,191,481,542,424,348,Doctoral/Research Universities,Private,36.96,512
+"University of Colorado, Colorado Springs",CO,299,580,322,349,600-650,250,497,#N/A,551,#N/A,434,497,Master's Colleges and Universities (larger programs),Public,36.95,513
+Old Dominion University,VA,496,406,217,328,411,387,381,193,541,467,558,438,Research Universities (high research activity),Public,36.81,514
+Florida Atlantic University,FL,446,429,389,370,530,127,518,344,580,553,525,472,Research Universities (high research activity),Public,36.79,515
+Immaculata University,PA,129,336,1,600-650,577,396,479,154,386,228,560,600-650,Doctoral/Research Universities,Private,36.77,516
+University of South Alabama,AL,256,600-650,600-650,237,520,394,525,45,581,434,455,464,Research Universities (high research activity),Public,36.77,517
+Maryville University of St. Louis,MO,136,358,10,536,600-650,600-650,356,85,263,120,560,581,Doctoral/Research Universities,Private,36.77,518
+University of Northern Iowa,IA,566,356,178,560,307,421,277,485,444,176,467,434,Master's Colleges and Universities (larger programs),Public,36.66,519
+John Brown University,AR,198,450,147,600-650,575,594,296,46,280,377,441,510,Baccalaureate Colleges--Diverse Fields,Private,36.6,520
+Florida International University,FL,389,350,266,378,378,215,572,600-650,591,600-650,416,532,Research Universities (high research activity),Public,36.59,521
+Abilene Christian University,TX,204,505,562,386,373,600-650,536,10,434,490,310,336,Master's Colleges and Universities (larger programs),Private,36.53,522
+Millikin University,IL,232,471,100,544,508,582,565,502,284,26,396,404,Baccalaureate Colleges--Diverse Fields,Private,36.46,523
+Lynn University,FL,269,600-650,600-650,404,512,86,506,117,482,369,560,591,Doctoral/Research Universities,Private,36.42,524
+St. Catherine University,MN,262,313,16,541,419,600-650,353,149,388,451,502,508,Master's Colleges and Universities (larger programs),Private,36.39,525
+Missouri State University,MO,530,507,596,241,496,241,502,552,479,389,557,485,Master's Colleges and Universities (larger programs),Public,36.38,526
+Wilmington University,DE,1,600-650,410,562,589,70,527,600-650,600-650,600-650,560,600-650,Doctoral/Research Universities,Private,36.35,527
+Milwaukee School of Engineering,WI,600-650,492,600-650,72,600-650,553,284,600-650,462,580,390,425,Master's Colleges and Universities (smaller programs),Private,36.3,528
+Wheeling Jesuit University,WV,76,581,458,594,277,517,438,456,361,310,560,216,Baccalaureate Colleges--Diverse Fields,Private,36.3,529
+"University of North Carolina, Greensboro",NC,360,501,245,551,488,293,318,467,511,259,429,409,Research Universities (high research activity),Public,36.1,530
+Otterbein University,OH,266,508,246,462,441,576,366,494,351,412,483,450,Master's Colleges and Universities (medium programs),Private,36.01,531
+Tuskegee University,AL,472,535,154,258,453,303,600-650,68,593,342,560,311,Baccalaureate Colleges--Diverse Fields,Private,36.01,532
+Russell Sage College,NY,394,529,290,234,595,600-650,478,35,348,309,560,341,Master's Colleges and Universities (larger programs),Private,35.85,533
+"University of Louisiana, Lafayette",LA,391,542,26,463,494,68,600-650,544,600-650,271,542,590,Research Universities (high research activity),Public,35.81,534
+Mississippi College,MS,18,515,574,567,348,480,483,542,467,600-650,493,261,Master's Colleges and Universities (larger programs),Private,35.8,535
+Maryville College,TN,91,591,422,600-650,347,561,583,168,362,185,392,381,Baccalaureate Colleges--Arts & Sciences,Private,35.8,536
+Wisconsin Lutheran College,WI,10,525,600-650,512,600-650,427,176,600-650,378,600-650,560,483,Baccalaureate Colleges--Arts & Sciences,Private,35.75,537
+"University of Missouri, St. Louis",MO,390,465,529,393,387,287,547,251,530,533,473,501,Research Universities (high research activity),Public,35.62,538
+University of North Florida,FL,349,371,269,439,600-650,113,545,501,546,600-650,538,584,Master's Colleges and Universities (larger programs),Public,35.59,539
+Northern Arizona University,AZ,361,557,124,477,521,343,548,264,487,80,503,431,Research Universities (high research activity),Public,35.48,540
+Oglethorpe University,GA,185,545,519,315,561,600-650,575,184,443,531,370,198,Baccalaureate Colleges--Arts & Sciences,Private,35.47,541
+University of New Orleans,LA,260,600-650,600-650,482,417,105,586,180,585,172,543,598,Research Universities (high research activity),Public,35.39,542
+Andrews University,MI,228,458,597,254,599,563,425,235,469,482,560,207,Doctoral/Research Universities,Private,35.19,543
+Anderson University,IN,336,426,92,374,600-650,600-650,450,109,358,168,560,430,Master's Colleges and Universities (larger programs),Private,35.09,544
+Wartburg College,IA,307,385,238,600-650,588,523,351,455,237,115,560,326,Baccalaureate Colleges--Arts & Sciences,Private,35.07,545
+Warren Wilson College,NC,142,600-650,600-650,528,600-650,279,328,520,490,600-650,364,268,Baccalaureate Colleges--Arts & Sciences,Private,35.05,546
+Carroll University,WI,241,456,174,445,392,600-650,279,207,430,355,560,520,Master's Colleges and Universities (smaller programs),Private,34.91,547
+Fort Lewis College,CO,84,600-650,561,351,600-650,294,600-650,600-650,572,266,451,545,Baccalaureate Colleges--Arts & Sciences,Public,34.83,548
+Jackson State University,MS,9,561,99,600-650,374,600-650,600-650,44,569,61,464,369,Research Universities (high research activity),Public,34.74,549
+Utah Valley University,UT,284,600-650,530,454,600-650,96,442,234,597,262,559,600-650,Baccalaureate Colleges--Diverse Fields,Public,34.66,550
+Montclair State University,NJ,500,363,381,474,491,441,385,75,463,307,554,597,Master's Colleges and Universities (larger programs),Public,34.49,551
+"Texas A&M University, Kingsville",TX,163,600-650,553,301,600-650,362,600-650,110,600-650,197,534,551,Doctoral/Research Universities,Public,34.45,552
+Portland State University,OR,445,554,467,377,389,450,457,87,600-650,500,342,522,Research Universities (high research activity),Public,34.37,553
+Nova Southeastern University,FL,452,592,600-650,161,600-650,595,259,27,515,588,541,600-650,Research Universities (high research activity),Private,34.34,554
+Oakland University,MI,542,547,510,223,457,483,391,42,600-650,576,522,559,Doctoral/Research Universities,Public,34.31,555
+Elmira College,NY,476,579,600-650,513,332,446,326,286,267,401,560,468,Baccalaureate Colleges--Diverse Fields,Private,34.11,556
+University of Memphis,TN,423,466,49,369,364,485,585,140,600-650,534,450,514,Research Universities (high research activity),Public,34.07,557
+Ball State University,IN,600-650,423,302,599,404,338,416,368,474,225,378,513,Research Universities (high research activity),Public,34.05,558
+High Point University,NC,272,442,560,573,555,330,574,438,297,68,560,512,Baccalaureate Colleges--Diverse Fields,Private,34.02,559
+"University of Missouri, Kansas City",MO,326,537,589,285,340,556,598,12,583,600-650,398,470,Research Universities (high research activity),Public,33.98,560
+Northern Illinois University,IL,581,576,600-650,242,327,495,555,120,519,429,494,547,Research Universities (high research activity),Public,33.89,561
+Trinity International University,IL,50,530,512,565,552,329,550,444,407,432,560,600-650,Doctoral/Research Universities,Private,33.81,562
+Bethany College,WV,148,600-650,584,600-650,290,600-650,588,361,403,87,187,146,Baccalaureate Colleges--Arts & Sciences,Private,33.8,563
+"Southern Illinois University, Carbondale",IL,478,600-650,600-650,432,249,465,552,76,533,301,454,412,Research Universities (high research activity),Public,33.49,564
+East Tennessee State University,TN,471,595,274,481,354,268,600-650,211,568,339,513,441,Doctoral/Research Universities,Public,33.48,565
+Grand Valley State University,MI,495,351,131,575,446,522,231,156,499,444,480,575,Master's Colleges and Universities (larger programs),Public,33.45,566
+Sam Houston State University,TX,418,558,145,399,514,307,600-650,357,514,283,555,561,Doctoral/Research Universities,Public,33.32,567
+Lyon College,AR,42,600-650,600-650,538,600-650,352,563,589,415,520,560,100,Baccalaureate Colleges--Arts & Sciences,Private,33.32,568
+"University of Nebraska, Omaha",NE,311,555,600-650,423,511,199,532,407,594,600-650,512,533,Doctoral/Research Universities,Public,33.29,569
+Carthage College,WI,274,487,427,600-650,596,593,319,561,363,479,243,433,Baccalaureate Colleges--Arts & Sciences,Private,33.24,570
+University of Tampa,FL,267,513,587,476,527,600-650,498,9,379,489,410,525,Master's Colleges and Universities (larger programs),Private,33.21,571
+Webster University,MO,332,394,332,425,455,567,481,106,384,523,560,552,Master's Colleges and Universities (larger programs),Private,33.19,572
+University of the Ozarks,AR,74,600-650,600-650,600-650,390,151,600-650,443,507,438,560,479,Baccalaureate Colleges--Diverse Fields,Private,33.11,573
+University of North Texas,TX,402,454,387,493,333,331,600-650,600-650,558,565,388,465,Research Universities (high research activity),Public,33.08,574
+Rhode Island College,RI,461,500,67,527,229,247,549,600-650,596,446,560,560,Master's Colleges and Universities (larger programs),Public,33.08,575
+University of Southern Mississippi,MS,176,564,543,600-650,189,529,600-650,504,549,566,324,302,Research Universities (high research activity),Public,32.8,576
+Oral Roberts University,OK,288,419,11,600-650,393,600-650,558,54,367,101,560,329,Master's Colleges and Universities (smaller programs),Private,32.72,577
+Longwood University,VA,557,439,300,600-650,600-650,281,349,169,416,201,560,568,Master's Colleges and Universities (medium programs),Public,32.6,578
+Texas Woman's University,TX,372,600-650,539,323,564,392,567,522,578,245,510,382,Doctoral/Research Universities,Public,32.56,579
+Bowling Green State University,OH,520,567,521,458,341,493,560,236,456,107,544,410,Research Universities (high research activity),Public,32.38,580
+Western Michigan University,MI,600-650,524,450,376,377,507,407,144,532,458,477,541,Research Universities (high research activity),Public,32.38,581
+Cedar Crest College,PA,124,498,45,486,600-650,581,495,593,417,450,560,225,Baccalaureate Colleges--Diverse Fields,Private,32.32,582
+Millersville University,PA,571,388,445,529,600-650,462,378,573,431,252,476,328,Master's Colleges and Universities (larger programs),Public,32.25,583
+Florida Southern College,FL,65,484,166,588,558,600-650,600-650,7,408,488,560,432,Baccalaureate Colleges--Diverse Fields,Private,31.98,584
+University of Akron,OH,370,569,455,396,342,440,600-650,330,600-650,469,447,550,Research Universities (high research activity),Public,31.97,585
+"Texas A&M University, Corpus Christi",TX,257,600-650,600-650,355,600-650,337,600-650,178,562,121,560,467,Doctoral/Research Universities,Public,31.89,586
+Southeastern Louisiana University,LA,330,600-650,567,492,380,133,589,580,600-650,515,553,600-650,Master's Colleges and Universities (larger programs),Public,31.71,587
+Widener University,PA,600-650,574,449,231,600-650,585,357,260,421,273,560,600-650,Doctoral/Research Universities,Private,31.58,588
+Georgia Southern University,GA,415,412,235,570,474,224,512,600-650,566,564,545,600-650,Doctoral/Research Universities,Public,31.51,589
+Catawba College,NC,235,583,338,431,403,447,524,588,452,443,560,600-650,Baccalaureate Colleges--Diverse Fields,Private,31.48,590
+Boise State University,ID,400,598,379,449,423,373,562,152,600-650,513,516,586,Master's Colleges and Universities (larger programs),Public,31.23,591
+University of Toledo,OH,600-650,600-650,600-650,340,436,408,592,272,534,263,505,478,Research Universities (high research activity),Public,31.09,592
+"Indiana University-Purdue University, Indianapolis",IN,273,572,489,419,600-650,433,465,163,600-650,568,490,600-650,Research Universities (high research activity),Public,30.96,593
+Western State Colorado University,CO,86,600-650,600-650,442,568,464,600-650,15,573,349,560,515,Baccalaureate Colleges--Arts & Sciences,Public,30.86,594
+"Minnesota State University, Mankato",MN,600-650,477,130,383,461,372,412,265,567,502,560,600-650,Master's Colleges and Universities (larger programs),Public,30.85,595
+University of Northern Colorado,CO,385,593,600-650,531,493,326,553,416,529,238,508,477,Doctoral/Research Universities,Public,30.74,596
+Florida Agricultural and Mechanical University,FL,588,422,32,479,266,575,600-650,483,600-650,379,443,435,Doctoral/Research Universities,Public,30.7,597
+Columbia College Chicago,IL,420,600-650,506,600-650,120,539,600-650,547,506,378,533,600-650,Master's Colleges and Universities (medium programs),Private,30.49,598
+University of West Florida,FL,318,543,564,595,571,142,541,405,536,525,560,427,Doctoral/Research Universities,Public,30.48,599
+"University of Wisconsin, Milwaukee",WI,600-650,588,600-650,405,371,414,454,273,600-650,594,471,518,Research Universities (high research activity),Public,30.21,600
+Idaho State University,ID,350,600-650,599,325,443,488,594,224,600-650,528,497,572,Research Universities (high research activity),Public,30.17,601
+Rocky Mountain College,MT,58,596,513,596,534,491,453,575,504,322,560,517,Baccalaureate Colleges--Diverse Fields,Private,30,602
+Colby-Sawyer College,NH,303,570,221,600-650,600-650,600-650,264,28,368,192,560,600-650,Baccalaureate Colleges--Diverse Fields,Private,30,603
+Central Michigan University,MI,600-650,496,259,469,382,571,343,127,574,504,492,588,Doctoral/Research Universities,Public,29.91,604
+Kent State University,OH,600-650,506,202,590,304,503,587,126,518,305,499,502,Research Universities (high research activity),Public,29.84,605
+"University of Texas, San Antonio",TX,398,600-650,600-650,459,545,339,595,129,600-650,499,459,557,Research Universities (high research activity),Public,29.8,606
+Middle Tennessee State University,TN,222,594,600-650,583,448,290,600-650,322,589,600-650,444,600-650,Doctoral/Research Universities,Public,29.74,607
+Northern Kentucky University,KY,249,600-650,480,448,524,348,597,370,600-650,571,550,600-650,Master's Colleges and Universities (larger programs),Public,29.72,608
+LaGrange College,GA,73,600-650,600-650,522,556,600-650,579,475,422,92,560,471,Baccalaureate Colleges--Diverse Fields,Private,29.68,609
+Eastern Michigan University,MI,537,493,118,450,476,540,542,161,600-650,558,486,567,Master's Colleges and Universities (larger programs),Public,29.62,610
+Western Illinois University,IL,522,578,520,525,500,455,581,128,491,199,514,564,Master's Colleges and Universities (larger programs),Public,29.56,611
+Cleveland State University,OH,584,600-650,256,344,466,528,573,96,600-650,461,530,577,Research Universities (high research activity),Public,29.44,612
+Lamar University,TX,375,600-650,540,333,550,312,600-650,465,600-650,396,560,600-650,Doctoral/Research Universities,Public,29.4,613
+University of Central Oklahoma,OK,358,600-650,355,600-650,531,240,600-650,231,600-650,529,498,565,Master's Colleges and Universities (larger programs),Public,29.35,614
+Tennessee State University,TN,455,600-650,394,384,243,600-650,600-650,324,600-650,459,540,491,Doctoral/Research Universities,Public,29.34,615
+Colorado Mesa University,CO,271,600-650,515,352,600-650,492,600-650,70,600-650,463,537,600-650,Baccalaureate Colleges--Arts & Sciences,Public,29.33,616
+Drury University,MO,254,544,526,589,429,502,600-650,600-650,405,481,518,443,Master's Colleges and Universities (medium programs),Private,29.24,617
+Carson-Newman College,TN,120,600-650,578,569,339,484,600-650,380,496,473,560,394,Baccalaureate Colleges--Diverse Fields,Private,29.24,618
+Barry University,FL,197,600-650,600-650,434,600-650,600-650,466,17,560,583,482,498,Doctoral/Research Universities,Private,28.88,619
+Ashland University,OH,454,571,552,592,471,555,330,592,357,237,560,527,Doctoral/Research Universities,Private,28.76,620
+Wright State University,OH,576,600-650,600-650,293,600-650,457,470,245,577,367,560,475,Research Universities (high research activity),Public,28.65,621
+Metropolitan State University of Denver,CO,211,600-650,511,503,600-650,286,600-650,403,600-650,574,536,600-650,Baccalaureate Colleges--Diverse Fields,Public,28.61,622
+Kennesaw State University,GA,392,470,312,561,563,276,577,481,600-650,600-650,546,600-650,Master's Colleges and Universities (larger programs),Public,28.57,623
+Eastern Kentucky University,KY,485,600-650,196,584,352,469,600-650,43,599,462,462,600-650,Master's Colleges and Universities (larger programs),Public,28.49,624
+Clark Atlanta University,GA,117,600-650,244,548,553,600-650,600-650,572,535,105,511,459,Doctoral/Research Universities,Private,28.36,625
+Morgan State University,MD,366,553,570,443,445,591,600-650,394,600-650,440,404,377,Doctoral/Research Universities,Public,28.33,626
+Mary Baldwin College,VA,151,600-650,188,600-650,492,599,384,247,493,508,560,355,Master's Colleges and Universities (smaller programs),Private,28.3,627
+Edgewood College,WI,396,411,8,555,567,600-650,239,538,512,470,560,600-650,Doctoral/Research Universities,Private,28.15,628
+Seton Hill University,PA,308,519,214,600-650,600-650,532,496,600-650,468,547,431,460,Baccalaureate Colleges--Diverse Fields,Private,27.45,629
+Indiana University of Pennsylvania,PA,574,526,557,566,486,519,530,556,492,333,445,440,Doctoral/Research Universities,Public,27.36,630
+"Texas A&M University, Commerce",TX,509,585,27,498,591,512,600-650,256,557,162,560,490,Doctoral/Research Universities,Public,27.32,631
+"University of Arkansas, Little Rock",AR,220,600-650,594,546,539,236,600-650,600-650,600-650,457,560,596,Doctoral/Research Universities,Public,27.28,632
+Bowie State University,MD,531,509,600-650,292,528,509,584,457,553,600-650,560,553,Doctoral/Research Universities,Public,27.14,633
+Monmouth College,IL,406,532,581,475,381,600-650,599,418,435,555,560,448,Baccalaureate Colleges--Arts & Sciences,Private,27.05,634
+Corban University,OR,N/A,478,192,600-650,505,530,137,61,396,70,560,492,Baccalaureate Colleges--Diverse Fields,Private,26.89,635
+Liberty University,VA,295,563,24,600-650,363,560,474,599,523,449,560,562,Master's Colleges and Universities (larger programs),Private,26.82,636
+Coastal Carolina University,SC,362,600-650,600-650,600-650,586,449,441,329,528,524,479,546,Master's Colleges and Universities (smaller programs),Public,26.6,637
+Youngstown State University,OH,456,600-650,157,516,516,537,600-650,253,600-650,418,551,535,Master's Colleges and Universities (larger programs),Public,26.13,638
+Troy University,AL,438,539,2,579,383,600-650,600-650,30,592,521,560,592,Master's Colleges and Universities (larger programs),Public,25.76,639
+Indiana State University,IN,600-650,600-650,600-650,507,440,321,600-650,408,563,291,560,600-650,Doctoral/Research Universities,Public,25.26,640
+Bloomfield College,NJ,159,600-650,541,426,535,600-650,600-650,92,600-650,592,560,600-650,Baccalaureate Colleges--Arts & Sciences,Private,25.12,641
+Cardinal Stritch University,WI,301,582,371,478,600-650,600-650,513,94,576,600-650,560,600-650,Doctoral/Research Universities,Private,24.89,642
+Bethel College,KS,N/A,474,63,600-650,513,573,505,570,445,306,263,159,Baccalaureate Colleges--Diverse Fields,Private,24.26,643
+Franklin Pierce University,NH,442,600-650,600-650,511,507,472,529,294,600-650,600-650,560,600-650,Master's Colleges and Universities (smaller programs),Private,23.62,644
+Johnson & Wales University,RI,573,528,390,600-650,559,565,600-650,558,410,264,560,600-650,Master's Colleges and Universities (larger programs),Private,23.36,645
+Dillard University,LA,483,600-650,600-650,600-650,284,600-650,600-650,155,587,600-650,560,488,Baccalaureate Colleges--Arts & Sciences,Private,21.3,646
+Claflin University,SC,N/A,472,25,600-650,572,600-650,600-650,530,502,154,355,403,Baccalaureate Colleges--Arts & Sciences,Private,21.11,647
+South Carolina State University,SC,N/A,600-650,225,451,370,600-650,600-650,84,600-650,145,560,484,Doctoral/Research Universities,Public,20.44,648
+Texas Southern University,TX,580,600-650,504,585,428,600-650,600-650,81,600-650,453,560,600-650,Doctoral/Research Universities,Public,20.42,649
+Oklahoma Wesleyan University,OK,N/A,600-650,4,549,351,600-650,600-650,600-650,498,138,560,524,Baccalaureate Colleges--Diverse Fields,Private,19.33,650
