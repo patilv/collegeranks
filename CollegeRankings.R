@@ -35,7 +35,7 @@ save(TotalRank,file="TotalRank.rda")
 
 tab1=dTable(TotalRank, sPaginationType = "full_numbers")
 tab1$save("TotalRanktable.html", cdn=T)
-#tab1$publish('University Rankings Data',host='gist')
+tab1$publish('University Rankings Data',host='gist')
 #tab1
 
 ### Plot all schools and best value schools on map
@@ -44,13 +44,11 @@ allschool=gvisGeoChart(TotalRank,locationvar="Name",colorvar="Overall.Rank",hove
                   options=list(region="US",displayMode="markers",resolution="provinces",
                                colorAxis="{colors:['green','yellow','orange','red']}"))
 
-print(allschool,file="allschoolgeolocation.html")
-
+cat(allschool$html$chart, file="allschoolgeolocation.html")
 bestvalschool=gvisGeoChart(subset(TotalRank,Best.Value.Rank>0),locationvar="Name",colorvar="Best.Value.Rank",hovervar="Name", 
                                      sizevar="Total.Score",options=list(region="US",displayMode="markers",resolution="provinces",
                                                                         colorAxis="{colors:['green','yellow','orange','red']}"))
-print(bestvalschool,file="bestvalschoolgeolocation.html")
-
+cat(bestvalschool$html$chart, file="bestvalschoolgeolocation.html")
 
 # Overall Rankings of Colleges for those ranked as Best Value
 
@@ -87,7 +85,7 @@ d1$legend(
 )
 d1
 d1$save("bestval.html", cdn=T)
-#d1$publish()
+d1$publish()
 
 ############## Motion Chart to play around with individual colleges or a set of colleges
 
@@ -127,5 +125,6 @@ motion = myMotionChart(TotalRank, idvar="Name", xvar= "Rate.My.Prof.Rank", yvar=
                              showYScalePicker=FALSE
                 ))
 plot(motion)
-print(motion,file="hellomotion.html")
+
+cat(motion$html$chart, file="hellomotion.html")
 ####################
